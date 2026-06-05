@@ -1,0 +1,32 @@
+state = {
+	id = 1052
+	name = "STATE_1052"
+	manpower = 132538
+	
+	resources = {
+	}
+
+
+	state_category = rural
+	
+	history = {
+		
+		owner = GEO
+
+		buildings = {
+			infrastructure = 2
+		}
+
+		add_core_of = GEO
+
+		victory_points = {
+			7454 1
+		}
+	}
+
+	provinces = {
+		10403 7454 789 11753
+	}
+
+	local_supplies = 0.0 
+}

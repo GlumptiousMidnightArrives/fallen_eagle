@@ -1,0 +1,34 @@
+state = {
+	id = 1050
+	name = "STATE_1050"
+	manpower = 60240
+	
+	resources = {
+	}
+
+
+	state_category = rural
+	
+	history = {
+		
+		owner = AZR
+
+		buildings = {
+			infrastructure = 2
+		}
+
+		add_core_of = AZR
+		add_claim_by = ARM
+
+		victory_points = {
+			6997 1
+		}
+
+	}
+
+	provinces = {
+		6997
+	}
+
+	local_supplies = 0.0 
+}

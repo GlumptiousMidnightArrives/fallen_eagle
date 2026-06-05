@@ -1,0 +1,41 @@
+state = {
+	id = 1049
+	name = "STATE_1049"
+	manpower = 241194 
+	
+	resources = {
+		coal = 2 # initial distribution / 60 total
+	}
+
+
+	state_category = rural
+	
+	history = {
+		
+		owner = SYR
+
+		buildings = {
+			infrastructure = 2
+		}
+
+		add_core_of = SYR
+		add_claim_by = KUR
+
+		victory_points = {
+			928 5
+		}
+		victory_points = {
+			9823 1 
+		}
+		victory_points = {
+			12387 1 
+		}
+
+	}
+
+	provinces = {
+		3889 9893 9823 11871 12416 12387
+	}
+
+	local_supplies = 0.0 
+}

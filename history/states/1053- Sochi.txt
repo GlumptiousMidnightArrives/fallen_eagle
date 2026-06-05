@@ -1,0 +1,33 @@
+state = {
+	id = 1053
+	name = "STATE_1053"
+	manpower = 45000
+	
+	resources = {
+	}
+
+
+	state_category = rural
+	
+	history = {
+		
+		owner = GEO
+
+		buildings = {
+			infrastructure = 2
+		}
+
+		add_core_of = GEO
+		add_core_of = ABK
+
+		victory_points = {
+			9663 1
+		}
+	}
+
+	provinces = {
+		9663 3698
+	}
+
+	local_supplies = 0.0 
+}

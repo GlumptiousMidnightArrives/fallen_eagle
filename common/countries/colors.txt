@@ -384,8 +384,8 @@ GEO = {
 }
 
 ARM = {
-	color = rgb { 176  102  180 }
-	color_ui = rgb { 176  102  180 }
+	color = rgb { 186 110 35 }
+	color_ui = rgb { 186 110 35 }
 }
 
 LAO = {
