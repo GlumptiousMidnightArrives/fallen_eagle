@@ -1,0 +1,29 @@
+state={
+	id=1054
+	name="STATE_1054"
+	resources={
+	}
+
+	history={
+		owner = FIN
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = FIN
+		add_core_of = KAR
+		victory_points = {
+			3067 2
+		}
+	}
+
+	provinces={
+		3067 9198 11181 36 134 170 11175 6096 3071 11146 2998 9231 80 6098 11054 11096 9119 9074 6175 11045
+	}
+	manpower=65700
+	
+	state_category = rural
+	buildings_max_level_factor=1.000
+
+	local_supplies=0.0 
+}
