@@ -1,0 +1,26 @@
+
+state={
+	id=1057
+	name="STATE_1057" # Gomel
+	manpower = 129900
+	
+	state_category = rural
+
+	history={
+		owner = UKR
+		victory_points = {
+			9288 10 
+		}
+		buildings = {
+			infrastructure = 3 #was: 5
+			air_base = 3
+		}
+		add_core_of = UKR
+	}
+
+	provinces={
+		9288 9342
+	}
+
+	local_supplies=0.0 
+}

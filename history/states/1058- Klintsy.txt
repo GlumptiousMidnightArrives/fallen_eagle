@@ -1,0 +1,25 @@
+
+state={
+	id=1058
+	name="STATE_1058" # Boah
+	manpower = 67523
+	
+	state_category = rural
+
+	history={
+		owner = UKR
+		victory_points = {
+			11325 1
+		}
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = UKR
+	}
+
+	provinces={
+		11229 315 371 11325 11298
+	}
+
+	local_supplies=0.0 
+}
