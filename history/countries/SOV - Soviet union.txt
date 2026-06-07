@@ -1314,11 +1314,6 @@ set_popularities = {
 	neutrality = 45
 }
 
-create_faction_from_template = faction_template_comintern
-add_to_faction = SOV
-add_to_faction = MON
-add_to_faction = TAN
-
 if = {
 	limit = {
 		has_dlc = "La Resistance"
