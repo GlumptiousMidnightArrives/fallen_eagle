@@ -1,4 +1,6 @@
-﻿oob = "TAN_1936"
+﻿capital = 329
+
+oob = "TAN_1936"
 
 # Starting tech
 set_technology = {
@@ -73,11 +75,11 @@ set_grand_doctrine = mass_assault
 }
 
 set_politics = {
-	ruling_party = communism
+	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	communism = 100
+	neutrality = 100
 }

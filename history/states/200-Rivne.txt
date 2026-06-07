@@ -13,6 +13,10 @@ state = {
 			11405 1 # Zaporozhe
 		}
 
+		victory_points = {
+			9729 4 # Zaporozhe
+		}
+
 		buildings = {
 			infrastructure = 3 #was: 5
 			air_base = 3

@@ -18,6 +18,10 @@ state = {
 		victory_points = {
 			721 1 # Kherson
 		}
+
+		victory_points = {
+			568 1 # Kherson
+		}
 		
 		buildings = {
 			infrastructure = 3 #was: 5
