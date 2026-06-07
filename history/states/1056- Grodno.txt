@@ -1,0 +1,30 @@
+state={
+	id=1056
+	name="STATE_1056"
+	resources={
+	}
+
+	history={
+		owner = POL
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = POL
+		add_claim_by = LIT
+
+		victory_points = {
+			3393 1
+		}
+	}
+
+	provinces={
+		3393 3366 6413
+	}
+	manpower=65700
+	
+	state_category = rural
+	buildings_max_level_factor=1.000
+
+	local_supplies=0.0 # oo oo wish i wish i knew knew knew knew
+}

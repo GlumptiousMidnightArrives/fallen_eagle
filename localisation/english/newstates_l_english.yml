@@ -22,3 +22,7 @@
  ROM_STATE_1055:0 "Tinutul Secuiesc"
  HUN_STATE_1055:0 "Székelyföld"
  STATE_1055:0 "Szeklerland"
+ STATE_1056:0 "Grodno"
+ BEL_STATE_1056:0 "Hrodna"
+ LIT_STATE_1056:0 "Gardinas"
+ GER_STATE_1056:0 "Garten"
