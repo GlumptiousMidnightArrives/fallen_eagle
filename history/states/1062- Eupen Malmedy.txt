@@ -1,0 +1,30 @@
+state = {
+	id = 1062
+	name = "STATE_1062"
+	manpower = 64200 
+	resources = {
+	}
+
+	state_category = rural #was metropolis, 2 slots diff
+	
+	history = {
+		
+		owner = BEL
+		add_core_of = BEL
+
+		buildings = {
+			infrastructure = 2
+		}
+
+		victory_points = {
+			3488 1 # Eupen-Malmedy
+		}
+	
+	}
+
+	provinces = {
+		3488
+	}
+	
+	local_supplies = 0.0 
+}

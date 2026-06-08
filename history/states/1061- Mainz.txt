@@ -1,0 +1,33 @@
+state = {
+	id = 1061
+	name = "STATE_1061"
+	manpower = 142627
+	resources = {
+	}
+
+	state_category = rural #was metropolis, 2 slots diff
+	
+	history = {
+		
+		owner = GER
+		add_core_of = GER
+		add_core_of = RHI
+		add_core_of = PRE
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+
+		victory_points = {
+			11560 2 # Mainz
+		}
+	
+	}
+
+	provinces = {
+		11560
+	}
+	
+	local_supplies = 0.0 
+}

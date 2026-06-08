@@ -32,6 +32,18 @@ state = {
 			3547 1 # Bonn
 		}
 
+		victory_points = { 
+			13386 5 # Duitsburg
+		}
+
+		victory_points = { 
+			6570 5 # Düsseldorf
+		}
+
+		victory_points = { 
+			9482 2 # Wuppertal
+		}
+
 		buildings = {
 			infrastructure = 4
 			arms_factory = 2
@@ -47,7 +59,7 @@ state = {
 	}
 
 	provinces = {
-		529 9482 6570 6469 3512
+		529 9482 6570 6469 3512 13386
 	}
 	
 	local_supplies = 0.0 
