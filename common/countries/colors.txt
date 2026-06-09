@@ -748,7 +748,7 @@ YAK = {
 	color_ui = rgb { 0 179 179 }
 }
 VLA = {
-	color = rgb { 255 204 0 }
+	color = rgb { 232 231 223 }
 	color_ui = rgb { 204 163 0 }
 }
 KKP = {

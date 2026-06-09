@@ -42,3 +42,8 @@
  FRA_STATE_1062:0 "Belgique de l'Est"
  STATE_1062:0 "Eupen-Malmedy"
  BEL_STATE_1062:0 "Belgique de l'Est"
+ STATE_1064:0 "Weihaiwei"
+ ENG_STATE_1064:0 "Port Edward"
+ STATE_1065:0 "Gulàngyu"
+ ENG_STATE_1065:0 "Kulangsu International Settlement"
+ STATE_1066:0 "Shamian"

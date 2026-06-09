@@ -9,6 +9,35 @@ state={
 		add_core_of = SOV
 		add_core_of = FER
 		add_core_of = VLA
+
+		victory_points = {
+			6961 2
+		}
+
+		victory_points = {
+			6838 5
+		}
+
+		victory_points = {
+			6833 2
+		}
+
+		victory_points = {
+			664 1
+		}
+
+		victory_points = {
+			11643 1
+		}
+
+
+		victory_points = {
+			9762 1
+		}
+
+		victory_points = {
+			11879 1
+		}
 	}
 	provinces={
 		664 681 810 837 3695 3723 3739 3753 3787 3811 3815 3843 3977 5427 6684 6686 6715 6833 6838 6961 6989 9639 9641 9762 9895 9926 11624 11626 11629 11643 11745 11750 11765 11777 11879 11904 
