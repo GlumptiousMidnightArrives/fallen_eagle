@@ -7150,7 +7150,7 @@
 7149;89;132;141;land;false;hills;5
 7150;89;132;196;land;true;plains;6
 7151;89;135;56;land;false;mountain;7
-7152;89;135;161;land;false;hills;6
+7152;89;135;161;land;true;hills;6
 7153;89;135;206;land;true;hills;1
 7154;89;138;21;land;false;desert;5
 7155;89;138;171;land;true;plains;6
@@ -13388,3 +13388,6 @@
 13387;2;167;205;land;true;hills;6
 13388;131;223;144;land;true;plains;6
 13389;0;80;195;land;true;urban;6
+13390;101;231;35;land;false;desert;6
+13391;253;15;149;land;false;desert;6
+13392;191;109;143;land;false;desert;6

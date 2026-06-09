@@ -800,7 +800,7 @@ BUK = {
 	color_ui = rgb { 172 115 57 }
 }
 KHI = {
-	color = rgb { 51 204 255 }
+	color = rgb { 160 178 184 }
 	color_ui = rgb { 0 134 179 }
 }
 UDM = {
@@ -1216,5 +1216,3 @@ GAL = {
 	color = rgb { 195 72 17 }
 	color_ui = rgb { 195 72 16 }	
 }
-
-

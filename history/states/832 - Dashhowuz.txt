@@ -1,0 +1,40 @@
+state = {
+	id = 832
+	name = "STATE_832"
+
+	history = {
+	
+		owner = TMS
+		
+		victory_points = {
+			1493 1
+		}
+
+		victory_points = {
+			10357 5
+		}
+
+		victory_points = {
+			4958 1
+		}
+		
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+		
+		add_core_of = TMS
+
+	}
+
+	provinces = {
+		1493 1649 7618 8099 10357 7560 4958 10414 7924 4482 10742 5003 4549
+	}
+	manpower = 133065
+	buildings_max_level_factor = 1.000
+	state_category = pastoral
+
+	local_supplies = 4.0 
+	
+}
