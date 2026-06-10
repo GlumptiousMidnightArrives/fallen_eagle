@@ -100,11 +100,6 @@ if = {
 		autonomous_state = autonomy_colony
 		freedom_level = 0.5
 	}
-	set_autonomy = {
-		target = ZAM
-		autonomous_state = autonomy_colony
-		freedom_level = 0.5
-	}
 	else = {
 		puppet = SYR
 		puppet = LEB
@@ -113,7 +108,6 @@ if = {
 		puppet = FWA
 		puppet = MOR
 		puppet = TUN
-		puppet = ZAM
 	}
 }
 
