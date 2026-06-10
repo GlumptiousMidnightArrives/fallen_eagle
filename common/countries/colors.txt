@@ -1216,3 +1216,7 @@ GAL = {
 	color = rgb { 195 72 17 }
 	color_ui = rgb { 195 72 16 }	
 }
+TRK = {
+	color = rgb { 72 105 163 }
+	color_ui = rgb { 72 105 163 }	
+}

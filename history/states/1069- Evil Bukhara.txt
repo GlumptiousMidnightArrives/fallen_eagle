@@ -1,0 +1,32 @@
+state = {
+	id = 1069
+	name = "STATE_1069"
+
+	resources = {
+	}
+
+	history = {
+
+		owner = TRK
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = TRK
+		add_core_of = BUK
+		victory_points = {
+			10671 1 
+		}
+
+	}
+
+	provinces = {
+		13393 10671 1216 
+	}
+	
+	manpower = 10000
+	buildings_max_level_factor = 1.000
+	state_category = wasteland
+
+	local_supplies = 0.0 
+}
