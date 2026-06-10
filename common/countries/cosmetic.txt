@@ -1876,3 +1876,28 @@ TCSP = {
     color = rgb { 78 156 128 }
     color_ui = rgb { 35 158 115 }
 }
+
+BRHOD = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
+
+FMOR = {
+	color = rgb { 69 107 163 }
+	color_ui = rgb { 64 100 167 }
+}
+
+FTUN = {
+	color = rgb { 69 107 163 }
+	color_ui = rgb { 64 100 167 }
+}
+
+FCAM = {
+	color = rgb { 69 107 163 }
+	color_ui = rgb { 64 100 167 }
+}
+
+BBOT = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}

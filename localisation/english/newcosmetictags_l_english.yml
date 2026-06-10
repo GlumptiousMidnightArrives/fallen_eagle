@@ -6,3 +6,23 @@
  TCSP_neutrality: "Transcaspian Governorate"
  TCSP_neutrality_ADJ: "Transcaspian"
  TCSP_neutrality_DEF: "the Transcaspian Governorate"
+
+ BRHOD: "Rhodesia"
+ BRHOD_ADJ: "Rhodesian"
+ BRHOD_DEF: "the Rhodesia"
+
+ FMOR: "Morocco"
+ FMOR_ADJ: "Moroccan"
+ FMOR_DEF: "the Morocco"
+
+ FTUN: "Tunisia"
+ FTUN_ADJ: "Tunisian"
+ FTUN_DEF: "the Tunisia"
+
+ FCAM: "Cameroun"
+ FCAM_ADJ: "Camerouni"
+ FCAM_DEF: "the Cameroun"
+
+ BBOT: "Bechuanaland"
+ BBOT_ADJ: "Bechuanalandi"
+ BBOT_DEF: "the Bechuanaland"

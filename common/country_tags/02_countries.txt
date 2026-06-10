@@ -1,1 +1,4 @@
 TRK = "countries/Turkestan.txt"
+FWA = "countries/French West Africa.txt"
+FEA = "countries/French Equatorial Africa.txt"
+BEA = "countries/British East Africa.txt"

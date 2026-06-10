@@ -1220,3 +1220,15 @@ TRK = {
 	color = rgb { 72 105 163 }
 	color_ui = rgb { 72 105 163 }	
 }
+FWA = {
+	color = rgb { 69 107 163 }
+	color_ui = rgb { 64 100 167 }
+}
+FEA = {
+	color = rgb { 69 107 163 }
+	color_ui = rgb { 64 100 167 }
+}
+BEA = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
