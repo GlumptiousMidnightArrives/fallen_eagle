@@ -7,22 +7,22 @@
  TCSP_neutrality_ADJ: "Transcaspian"
  TCSP_neutrality_DEF: "the Transcaspian Governorate"
 
- BRHOD: "Rhodesia"
+ BRHOD: "Federation of Rhodesia"
  BRHOD_ADJ: "Rhodesian"
- BRHOD_DEF: "the Rhodesia"
+ BRHOD_DEF: "Rhodesia"
 
- FMOR: "Morocco"
+ FMOR: "French protectorate in Morocco"
  FMOR_ADJ: "Moroccan"
- FMOR_DEF: "the Morocco"
+ FMOR_DEF: "Morocco"
 
- FTUN: "Tunisia"
+ FTUN: "Regency of Tunis"
  FTUN_ADJ: "Tunisian"
- FTUN_DEF: "the Tunisia"
+ FTUN_DEF: "Tunisia"
 
- FCAM: "Cameroun"
+ FCAM: "Territory of Cameroun"
  FCAM_ADJ: "Camerouni"
- FCAM_DEF: "the Cameroun"
+ FCAM_DEF: "Cameroun"
 
- BBOT: "Bechuanaland"
+ BBOT: "Bechuanaland Protectorate"
  BBOT_ADJ: "Bechuanalandi"
- BBOT_DEF: "the Bechuanaland"
+ BBOT_DEF: "Bechuanaland"
