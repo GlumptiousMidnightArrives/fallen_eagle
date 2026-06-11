@@ -11,3 +11,6 @@
  BEA_subject:0 "$OVERLORDADJ$ East Africa"
  BEA_subject_DEF:0 "$OVERLORDADJ$ East Africa"
  BEA_subject_ADJ:0 "$OVERLORDADJ$ East African"
+ LIT_POL_neutrality_subject: "Lithuanian Governorate"
+ LIT_POL_neutrality_subject_ADJ: "Lithuanian"
+ LIT_POL_neutrality_subject_DEF: "the Lithuanian Governorate"
