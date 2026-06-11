@@ -7,18 +7,18 @@ state={
 		add_core_of = PRC
 		buildings = {
 			infrastructure = 2
-			13388 = {
+			13420 = {
 				naval_base = 2
 				coastal_bunker = 1
 				bunker = 1
 			}
 		}
 		victory_points = {
-			13388 2 # Kulangsu
+			13420 2 # Kulangsu
 		}
 	}
 	provinces={
-		13388
+		13420
 	}
 	manpower=161900
 	buildings_max_level_factor=1

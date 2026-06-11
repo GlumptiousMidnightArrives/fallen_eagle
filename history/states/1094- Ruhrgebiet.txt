@@ -33,7 +33,7 @@ state = {
 		}
 
 		victory_points = { 
-			13386 5 # Duitsburg
+			13418 5 # Duitsburg
 		}
 
 		victory_points = { 
@@ -59,7 +59,7 @@ state = {
 	}
 
 	provinces = {
-		529 9482 6570 6469 3512 13386
+		529 9482 6570 6469 3512 13418
 	}
 	
 	local_supplies = 0.0 
