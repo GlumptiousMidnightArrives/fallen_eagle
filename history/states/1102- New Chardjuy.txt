@@ -1,6 +1,6 @@
 state={
-	id=1067
-	name="STATE_1067"
+	id=1102
+	name="STATE_1102"
 	history = {
 		owner = BUK
 		add_core_of = BUK
