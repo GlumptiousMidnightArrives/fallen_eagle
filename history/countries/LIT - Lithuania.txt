@@ -190,7 +190,7 @@ set_popularities = {
 	communism = 15
 	neutrality = 40
 }
-set_cosmetic_tag = LIT_POL
+set_cosmetic_tag = LIT_POL_puppet
 if = {
 	limit = {
 		has_dlc = "No Step Back"
