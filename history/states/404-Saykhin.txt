@@ -7,6 +7,12 @@ state = {
 		victory_points = {
 			7597 1
 		}
+		victory_points = {
+			4300 1 # Kazalinsk 
+		}
+		victory_points = {
+			7600 1 # Karmakchi
+		}
 		add_core_of = TRK
 		buildings = {
 			infrastructure = 1
