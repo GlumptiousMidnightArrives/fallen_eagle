@@ -1,0 +1,39 @@
+state = {
+	id = 1107
+	name = "STATE_1107"
+
+	resources = {
+	}
+
+	history = {
+
+		owner = TRK
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = TRK
+		victory_points = {
+			13432 4 # Chimkent
+		}
+		victory_points = {
+			4686 2 # Arys
+		}
+		victory_points = {
+			12640 1 # Auliye-Ata
+		}
+		victory_points = {
+			7706 1 # Lugovoye
+		}
+	}
+
+	provinces = {
+		7777 10366 12397 7556 10506 12340 4686 10148 10601 12640 12658 10603 7706 13432 13433
+	}
+	
+	manpower = 73000
+	buildings_max_level_factor = 1.000
+	state_category = large_town
+
+	local_supplies = 0.0 
+}

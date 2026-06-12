@@ -1,0 +1,38 @@
+state = {
+	id = 1105
+	name = "STATE_1105"
+
+	resources = {
+	}
+
+	history = {
+
+		owner = TRK
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = TRK
+		add_core_of = KYR
+		victory_points = {
+			13429 2
+		}
+		victory_points = {
+			13431 5
+		}
+		victory_points = {
+			13430 1
+		}
+
+	}
+
+	provinces = {
+		13429 13430 13431 
+	}
+	
+	manpower = 1200000
+	buildings_max_level_factor = 1.000
+	state_category = large_town
+
+	local_supplies = 0.0 
+}

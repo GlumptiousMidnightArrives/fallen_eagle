@@ -1,0 +1,25 @@
+state = {
+	id = 404
+	name = "STATE_404" # Kyzyl Orda
+
+	history = {
+		owner = TRK
+		victory_points = {
+			7597 1
+		}
+		add_core_of = TRK
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces = {
+		4636 7597 7600 7657 10353 12329 4638 4581 4300 7243
+	}
+	manpower = 447020
+	buildings_max_level_factor = 1.000
+	state_category = pastoral
+
+	local_supplies = 0.0 
+}

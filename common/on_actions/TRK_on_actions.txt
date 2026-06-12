@@ -1,0 +1,16 @@
+on_actions = {
+    on_subject_free = {
+            effect = {
+                if = {
+                    limit = { 
+                        original_tag = TMS
+                    }
+                
+				drop_cosmetic_tag = TCSP
+				
+            }
+        }
+    }
+
+ }
+
