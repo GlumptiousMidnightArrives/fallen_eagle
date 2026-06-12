@@ -53,3 +53,8 @@
  STATE_1104:0 "Samarkand"
  STATE_1105:0 "Ferghana Valley"
  STATE_1106:0 "Osh"
+ STATE_1108: "Tangier"
+ STATE_1109: "Ceuta"
+ STATE_1110: "Melilla"
+ STATE_1111: "Walvis Bay"
+ STATE_1112: "Simons Town"

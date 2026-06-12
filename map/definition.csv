@@ -13432,3 +13432,11 @@
 13431;175;67;170;land;false;plains;6
 13432;219;43;125;land;false;mountain;6
 13433;184;96;219;land;false;desert;6
+13434;69;69;69;land;true;urban;5
+13435;23;23;23;land;true;urban;5
+13436;158;107;156;land;true;hills;1
+13437;69;114;194;land;true;urban;5
+13438;69;93;219;land;true;urban;5
+13439;171;9;239;land;true;desert;7
+13440;206;239;18;land;true;desert;7
+13441;123;123;123;land;true;urban;5

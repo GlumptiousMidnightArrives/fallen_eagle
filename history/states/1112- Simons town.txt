@@ -1,0 +1,32 @@
+state = {
+	id = 1112
+	name = "STATE_1112"
+	manpower = 8000
+
+	state_category = rural
+
+	history = {
+
+		owner = ENG
+		add_core_of = SAF
+
+		buildings = {
+			infrastructure = 3
+
+			12589 = {
+				naval_base = 1
+			}
+		}
+
+		victory_points = {
+			13438 2 # Simons Town
+		}
+		
+	}
+
+	provinces = {
+		13438
+	}
+
+	local_supplies = 0.0 
+}

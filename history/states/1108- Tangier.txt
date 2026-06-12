@@ -1,0 +1,32 @@
+state={
+	id=1108
+	name="STATE_1108"
+	manpower = 50000
+	
+	
+	state_category = rural
+	
+
+	history={
+		owner = SPR
+		add_core_of = MOR
+		add_core_of = RIF
+		victory_points = {
+			13441 3 #Tangier
+		}
+		buildings = {
+			infrastructure = 2
+			13441 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	set_demilitarized_zone = yes
+
+	provinces = {
+		13441
+	}
+
+	local_supplies = 0.0 
+}
