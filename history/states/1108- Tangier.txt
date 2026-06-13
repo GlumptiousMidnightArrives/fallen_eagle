@@ -27,5 +27,7 @@ state={
 		13441
 	}
 
-	local_supplies = 0.0 
+	local_supplies = 0.0
+
+	add_dynamic_modifier = {international_city} 
 }
