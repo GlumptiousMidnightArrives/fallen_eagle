@@ -32,7 +32,7 @@ on_actions = {
                         original_tag = LIT
                     }
                 
-				drop_cosmetic_tag = LIT_POL_puppet
+				drop_cosmetic_tag = yes
 				
             }
         }

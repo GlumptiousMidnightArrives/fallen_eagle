@@ -6,7 +6,7 @@ on_actions = {
                         original_tag = TMS
                     }
                 
-				drop_cosmetic_tag = TCSP
+				drop_cosmetic_tag = yes
 				
             }
         }

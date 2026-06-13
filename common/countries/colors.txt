@@ -1232,3 +1232,7 @@ BEA = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
+KAZ = {
+	color = rgb { 91 142 186 }
+	color_ui = rgb { 91 142 186 }
+}
