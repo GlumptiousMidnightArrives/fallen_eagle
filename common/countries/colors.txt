@@ -796,7 +796,7 @@ BSK = {
 	color_ui = rgb { 36 143 36 }
 }
 BUK = {
-	color = rgb { 204 153 102 }
+	color = rgb { 81 138 83 }
 	color_ui = rgb { 172 115 57 }
 }
 KHI = {
@@ -1235,4 +1235,8 @@ BEA = {
 KAZ = {
 	color = rgb { 91 142 186 }
 	color_ui = rgb { 91 142 186 }
+}
+KYR = {
+	color = rgb { 130 98 64 }
+	color_ui = rgb { 130 98 64 }
 }

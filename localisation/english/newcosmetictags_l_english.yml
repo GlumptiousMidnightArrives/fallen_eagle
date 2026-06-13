@@ -26,4 +26,8 @@
 
  ALASH_AUTONOMY_neutrality: "Alash Autonomy"
  ALASH_AUTONOMY_ADJ: "Alash"
- ALASH_AUTONOMY_ADJ: "the Alash Autonomy"
+ ALASH_AUTONOMY_DEF: "the Alash Autonomy"
+ 
+ TURKESTAN_AUTONOMY_neutrality: "Turkestan Autonomy"
+ TURKESTAN_AUTONOMY_ADJ: "Turkestani"
+ TURKESTAN_AUTONOMY_DEF: "the Turkestan Autonomy"

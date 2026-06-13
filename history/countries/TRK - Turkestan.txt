@@ -97,4 +97,20 @@ set_popularities = {
 	communism = 2
 	neutrality = 85
 }
-
+set_cosmetic_tag = TURKESTAN_AUTONOMY
+if = {
+	limit = {
+		has_dlc = "No Step Back"
+	}
+	SOV = {
+  	     set_autonomy = {
+  	      target = TRK
+  	      autonomy_state = autonomy_dominion
+  	    }
+	}
+	else = {
+		SOV = {
+			puppet = TRK
+		}
+	}
+}

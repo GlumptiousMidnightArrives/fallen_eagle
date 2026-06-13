@@ -142,7 +142,22 @@ recruit_character = KAZ_democratic_guy
 recruit_character = KAZ_ar
 recruit_character = KAZ_acgs
 
-
+if = {
+	limit = {
+		has_dlc = "No Step Back"
+	}
+	SOV = {
+  	     set_autonomy = {
+  	      target = KAZ
+  	      autonomy_state = autonomy_dominion
+  	    }
+	}
+	else = {
+		SOV = {
+			puppet = KAZ
+		}
+	}
+}
 
 
 
