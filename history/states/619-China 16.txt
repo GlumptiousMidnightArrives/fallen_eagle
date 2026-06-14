@@ -1,0 +1,41 @@
+
+state={
+	id=619
+	name="STATE_619" # Yarkand
+	manpower = 1430700
+	
+	state_category = pastoral
+	
+	resources={
+		aluminium=2 # was: 2
+		chromium=2 # was: 3
+	}
+
+	history={
+		owner = IET
+		add_core_of = IET
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		victory_points = {
+			2015 2 # Kashgar
+		}
+
+		victory_points = {
+			4682 1 # Aksu
+		}
+
+		victory_points = {
+			1970 1 # Yecheng 
+		}
+		
+	}
+
+
+	provinces={
+		1766 2015 4828 5087 7949 12119 4682 1703 1970 8112
+	}
+
+	local_supplies=0.0 
+}

@@ -2,21 +2,35 @@
  TRK:0 "Turkestan"
  TRK_DEF:0 "Turkestan"
  TRK_ADJ:0 "Turkestani"
+
  FEA_subject:0 "$OVERLORDADJ$ Equatorial Africa"
  FEA_subject_DEF:0 "$OVERLORDADJ$ Equatorial Africa"
  FEA_subject_ADJ:0 "$OVERLORDADJ$ Equatorial African"
  FEA_fascism_subject:0 "Ordre Français de Afrique-Équatoriale"
  FEA_fascism_subject_DEF:0 "Ordre Français de Afrique-Équatoriale"
  FEA_fascism_subject_ADJ:0 "Afrique-Équatoriale"
+
  FWA_fascism_subject:0 "Ordre Français de Afrique-Occidentale"
  FWA_fascism_subject_DEF:0 "Ordre Français de Afrique-Occidentale"
  FWA_fascism_subject_ADJ:0 "Afrique-Occidentale"
  FWA_subject:0 "$OVERLORDADJ$ West Africa"
  FWA_subject_DEF:0 "$OVERLORDADJ$ West Africa"
  FWA_subject_ADJ:0 "$OVERLORDADJ$ West African"
+
  BEA_subject:0 "$OVERLORDADJ$ East Africa"
  BEA_subject_DEF:0 "$OVERLORDADJ$ East Africa"
  BEA_subject_ADJ:0 "$OVERLORDADJ$ East African"
+
  LIT_POL_neutrality_subject: "Lithuanian Governorate"
  LIT_POL_neutrality_subject_ADJ: "Lithuanian"
  LIT_POL_neutrality_subject_DEF: "the Lithuanian Governorate"
+
+ IET: "East Turkestan Republic"
+ IET_ADJ: "Turkestani"
+ IET_DEF: "the East Turkestan Republic"  # LONG LIVE EAST TURKISTAN ROUUUHGH
+ IET_communism: "People's Republic of East Turkestan"
+ IET_communism_DEF: "the People's Republic of East Turkestan"
+ IET_neutrality: "Kingdom of Uyghurs"
+ IET_neutrality_DEF: "the Kingdom of Uyghurs"
+ IET_fascism: "Kingdom of Uyghurs"
+ IET_fascism_DEF: "Great Uyghuristan"
