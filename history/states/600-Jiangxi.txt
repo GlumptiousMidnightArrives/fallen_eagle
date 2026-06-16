@@ -1,0 +1,28 @@
+state={
+	id=600
+	name="STATE_600"
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+
+		buildings = {
+			infrastructure = 1 #was 2
+			industrial_complex = 1 #was 2
+		}
+
+		victory_points = {
+			7199 5 # Ganzhou 
+		}
+
+	}
+
+	provinces={
+		1053 1110 4081 4083 4156 4183 7004 7172 7199 9942 10057 10112 10501 11945 12030 12495 
+	}
+	manpower=9620400
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=2.0 #was 3 
+}

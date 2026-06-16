@@ -1,0 +1,28 @@
+state={
+	id=1115
+	name="STATE_1115"
+
+	history={
+		owner = CHI
+		add_core_of = CHI
+
+		buildings = {
+			infrastructure = 1 #was 2
+			industrial_complex = 1 #was 2
+		}
+
+		victory_points = {
+			3992 5 # Nanchang 
+		}
+
+	}
+
+	provinces={
+		3992 7653 11988 4038 7054 1066 9984 11961 4185 1628 13141 10114 1036
+	}
+	manpower=6200000
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=2.0 #was 3 
+}

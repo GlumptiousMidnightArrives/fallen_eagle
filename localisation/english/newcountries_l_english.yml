@@ -27,10 +27,27 @@
 
  IET: "East Turkestan Republic"
  IET_ADJ: "Turkestani"
- IET_DEF: "the East Turkestan Republic"  # LONG LIVE EAST TURKISTAN ROUUUHGH
+ IET_DEF: "the East Turkestan Republic"
  IET_communism: "People's Republic of East Turkestan"
  IET_communism_DEF: "the People's Republic of East Turkestan"
  IET_neutrality: "Kingdom of Uyghurs"
  IET_neutrality_DEF: "the Kingdom of Uyghurs"
  IET_fascism: "Kingdom of Uyghurs"
  IET_fascism_DEF: "Great Uyghuristan"
+
+ 
+ WRC_fascism:0 "National Coalition of China"
+ WRC_fascism_DEF:0 "National Coalition of China"
+ WRC_democratic:0 "Republic of China"
+ WRC_democratic_DEF:0 "the Republic of China"
+ WRC_neutrality:0 "Wuhan Government of the Republic of China"
+ WRC_neutrality_DEF: "the Wuhan Government"
+ WRC_communism:0 "United Chinese Radical Republic"
+ WRC_communism_DEF:0 "the United Chinese Radical Republic"
+ WRC_fascism_ADJ:0 "Chinese"
+ WRC_democratic_ADJ:0 "Chinese"
+ WRC_neutrality_ADJ:0 "Chinese"
+ WRC_communism_ADJ:0 "Chinese"
+ WRC:0 "China"
+ WRC_DEF:0 "China"
+ WRC_ADJ:0 "Chinese"

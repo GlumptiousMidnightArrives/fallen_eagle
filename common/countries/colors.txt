@@ -1244,3 +1244,7 @@ IET = {
 	color = rgb { 123 181 181 }
 	color_ui = rgb { 123 181 181 }
 }
+WRC = {
+	color = rgb { 145 60 91 }
+	color_ui = rgb { 145 60 91 }
+}

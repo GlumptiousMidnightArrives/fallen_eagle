@@ -1,0 +1,422 @@
+capital = 1036 # Nanjing
+
+IF = {
+	if = {
+		limit = {
+			has_dlc = "No Step Back"
+		}
+		create_equipment_variant = {
+			name = "L3/35"
+			type = light_tank_chassis_1
+			parent_version = 0
+			modules = {
+				main_armament_slot = tank_heavy_machine_gun
+				turret_type_slot = tank_light_fixed_superstructure_turret
+				suspension_type_slot = tank_bogie_suspension
+				armor_type_slot = tank_riveted_armor
+				engine_type_slot = tank_gasoline_engine
+			}
+			upgrades = {
+				tank_nsb_engine_upgrade = 1
+				tank_nsb_armor_upgrade = 1
+			}
+			icon = "GFX_ITA_basic_light_tank_medium"
+		}
+		create_equipment_variant = {
+			name = "Panzer I Ausf. A"
+			type = light_tank_chassis_1
+			parent_version = 0
+			modules = {
+				main_armament_slot = tank_heavy_machine_gun
+				turret_type_slot = tank_light_one_man_tank_turret
+				suspension_type_slot = tank_christie_suspension
+				armor_type_slot = tank_riveted_armor
+				engine_type_slot = tank_gasoline_engine
+				special_type_slot_1 = tank_radio_1
+			}
+			upgrades = {
+				tank_nsb_engine_upgrade = 5
+				tank_nsb_armor_upgrade = 1
+			}
+			icon = "GFX_GER_basic_light_tank_medium"
+		}
+
+		add_equipment_to_stockpile = { 
+			type = light_tank_chassis_1
+			variant_name = "L3/35"
+			amount = 20
+			producer = ITA
+		}
+		add_equipment_to_stockpile = { 
+			type = light_tank_chassis_1
+			variant_name = "Panzer I Ausf. A"
+			amount = 16
+			producer = GER
+		}
+	}
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+		set_naval_oob = "CHI_1936_naval_mtg"
+	else = {
+		set_naval_oob = "CHI_1936_naval_legacy"
+	}
+}
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+		set_air_oob = "CHI_1936_air_bba"
+		set_technology = {
+			iw_small_airframe = 1
+			aa_lmg = 1
+			engines_1 = 1
+			iw_medium_airframe = 1
+			bba_early_transport_plane = 1
+		}
+	else = {
+		set_air_oob = "CHI_1936_air_legacy"
+		set_technology = {
+			early_fighter = 1
+			early_bomber = 1
+		}
+	}
+}
+
+if = {
+	limit = {
+		has_dlc = "No Compromise, No Surrender"
+	}
+	CHI_chen_shaokuan = {
+		set_character_flag = can_flip_to_prc
+	}
+	CHI_zhang_zhizhong = {
+		set_character_flag = can_flip_to_prc
+	}
+}
+
+set_stability = 0.2
+set_war_support = 0.32
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	basic_train = 1
+}
+
+set_grand_doctrine = mass_assault
+set_grand_doctrine = new_fleet_in_being
+
+if = {
+	limit = {
+		has_dlc = "No Step Back"
+	}
+	set_technology = {
+		gwtank_chassis = 1
+	}
+	else = {
+		set_technology = {
+			gwtank = 1
+		}
+	}
+}
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	set_technology = {
+		early_destroyer = 1
+		early_heavy_cruiser = 1
+		early_light_cruiser = 1
+	}
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	set_technology = {
+		basic_naval_mines = 1
+		early_ship_hull_light = 1
+		early_ship_hull_cruiser = 1
+		basic_battery = 1
+		basic_torpedo = 1
+		coastal_defense_ships = 1
+	}
+}
+
+IF = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+
+	create_operative_leader = {
+		name = CHI_zheng_pingru
+		GFX = GFX_portrait_CHI_zheng_pingru
+		traits = { operative_well_groomed }
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { CHI RNG PRC }
+	}
+
+	create_operative_leader = {
+		name = CHI_xu_lai
+		GFX = GFX_portrait_CHI_xu_lai
+		traits = { operative_seducer operative_well_groomed }
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { CHI RNG PRC }
+	}
+
+}
+set_popularities = {
+	neutrality = 100
+}
+add_ideas = {
+}
+
+
+
+###################################
+# MIO LOCATIONS
+###################################
+
+
+613 = {  #Shanghai
+	add_to_array = {
+	    array = ROOT.mio_locations
+	    value = THIS
+	    index = 0
+	}
+}
+
+608 = { #Beijing
+	add_to_array = {
+	    array = ROOT.mio_locations
+	    value = THIS
+	    index = 1
+	}
+}
+
+615 = { #Shanxi
+	add_to_array = {
+	    array = ROOT.mio_locations
+	    value = THIS
+	    index = 2
+	}
+}
+
+715 = { #Liaobei
+	add_to_array = {
+	    array = ROOT.mio_locations
+	    value = THIS
+	    index = 3
+	}
+}
+
+1036 = { #Wuhan
+	add_to_array = {
+	    array = ROOT.mio_locations
+	    value = THIS
+	    index = 4
+	}
+}
+
+716 = { #Liaoning
+	add_to_array = {
+	    array = ROOT.mio_locations
+	    value = THIS
+	    index = 5
+	}
+}
+
+1035 = {  #Nanjing
+	add_to_array = {
+	    array = ROOT.mio_locations
+	    value = THIS
+	    index = 6
+	}
+}
+
+613 = {  #Shanghai
+	add_to_array = {
+	    array = ROOT.mio_locations
+	    value = THIS
+	    index = 7
+	}
+}
+
+596 = {  #Zhejiang
+	add_to_array = {
+	    array = ROOT.mio_locations
+	    value = THIS
+	    index = 8
+	}
+}
+
+600 = {  #Jiangxi
+	add_to_array = {
+	    array = ROOT.mio_locations
+	    value = THIS
+	    index = 9
+	}
+}
+
+save_global_event_target_as = WTT_current_china_leader
+
+set_convoys = 40
+
+1939.1.1 = {
+	
+	set_global_flag = CHI_xian_fired #Don't trigger the Xi'an Incident again
+
+	IF = {
+		limit = {
+			has_dlc = "No Compromise, No Surrender"
+		}
+		set_oob = "CHI_1939_sea"
+		
+		complete_national_focus = CHI_dang_guo 							
+		complete_national_focus = CHI_promote_the_national_currency 		
+		complete_national_focus = CHI_denounce_feudalism 					
+		complete_national_focus = CHI_decree_the_end_to_corruption 		
+		complete_national_focus = CHI_arrest_the_seven_gentlemen 			
+		complete_national_focus = CHI_military_affairs_commission_sea 	
+		complete_national_focus = CHI_protracted_warfare 					
+		complete_national_focus = CHI_defence_in_depth 
+		complete_national_focus = CHI_initiate_the_gung_ho_movement 		
+		complete_national_focus = CHI_one_nation_undivided 				
+		#complete_national_focus = CHI_the_three_year_plan 				
+		complete_national_focus = CHI_the_4_defence_areas					
+		complete_national_focus = CHI_finance_cooperatives				
+		complete_national_focus = CHI_guerrilla_warfare
+		complete_national_focus = CHI_relocate_factories_from_the_coast	
+		complete_national_focus = CHI_expand_the_cooperatives				
+		complete_national_focus = CHI_formalize_field_promotions			
+		complete_national_focus = CHI_demonstrate_our_resolve 			
+		complete_national_focus = CHI_send_the_first_lady_abroad			
+		complete_national_focus = CHI_administer_cooperatives
+		complete_national_focus = CHI_secure_the_soviet_border			
+		complete_national_focus = CHI_crackdown_on_corruption_in_recruitment
+		complete_national_focus = CHI_facilitate_operation_zet
+
+		add_dynamic_modifier = { modifier = CHI_american_support }
+		add_dynamic_modifier = { modifier = CHI_soviet_support }
+
+		set_variable = { nine_power_justify_war_goal_time = -0.14 } #8
+		set_variable = { nine_power_min_export = 0.14 } 
+		set_variable = { nine_power_treaty_cg = 0.14 }
+		else = {
+			complete_national_focus = CHI_unified_industrial_planning
+			complete_national_focus = CHI_mission_to_germany
+			complete_national_focus = CHI_rural_reconstruction_movement
+			complete_national_focus = CHI_invite_foreign_investors
+			complete_national_focus = CHI_british_cooperation
+			unlock_national_focus = CHI_fighter_purchases
+			complete_national_focus = CHI_mission_to_the_us
+			complete_national_focus = CHI_mission_to_the_soviet_union
+			complete_national_focus = CHI_hire_chennault
+			complete_national_focus = CHI_rapprochement_with_soviet_union
+			complete_national_focus = CHI_invite_soviet_advisers
+			complete_national_focus = CHI_military_affairs_commission
+			complete_national_focus = CHI_burma_road
+			unlock_national_focus = CHI_the_soviet_volunteer_group
+			complete_national_focus = CHI_bureau_of_investigation_and_statistics
+			complete_national_focus = CHI_camco
+			complete_national_focus = CHI_three_principles_of_the_people
+			complete_national_focus = CHI_army_reform
+			complete_national_focus = CHI_nationalism
+		}
+	}
+
+	add_political_power = 1198
+	add_command_power = 100
+	set_stability = 0.5
+	set_war_support = 0.7
+	
+
+	add_ideas = {
+		#laws
+		war_economy
+		service_by_requirement
+		closed_economy
+	}
+	
+	set_global_flag = fall_of_nanjing
+	create_faction_from_template = faction_template_chinese_united_front
+	add_to_faction = PRC
+	remove_opinion_modifier = { target = PRC modifier = hostile_status }
+	#load_oob = "CHI_united_front"
+	set_global_flag = CHI_unite
+	
+	if = {
+		limit = { has_dlc = "By Blood Alone" }
+			set_air_oob = "CHI_1939_air_bba"
+		else = {
+			set_air_oob = "CHI_1939_air_legacy"
+		}
+	}
+	if = {
+		limit = { has_dlc = "Man the Guns" }
+			set_naval_oob = "CHI_1939_naval_mtg"
+		else = {
+			set_naval_oob = "CHI_1939_naval_legacy"
+		}
+	}
+	set_technology = {
+
+		#PLACEHOLDER techs for vehicles
+		motorised_infantry = 1
+		tech_support = 1		
+		tech_recon = 1
+		tech_engineers = 1
+		tech_trucks = 1
+
+		#doctrines
+		#air_superiority = 1
+		#pocket_defence = 1
+
+		#electronics
+		electronic_mechanical_engineering = 1
+		radio = 1
+		mechanical_computing = 1
+		computing_machine = 1
+		basic_encryption = 1
+		basic_decryption = 1
+
+		#industry
+		basic_machine_tools = 1
+		improved_machine_tools = 1
+		advanced_machine_tools = 1
+		synth_oil_experiments = 1
+		fuel_silos = 1
+		oil_processing = 1
+		improved_oil_processing = 1
+		construction1 = 1
+		construction2 = 1
+		construction3 = 1
+		concentrated_industry = 1
+		concentrated_industry2 = 1
+		concentrated_industry3 = 1
+	}
+
+set_grand_doctrine = mass_assault
+set_grand_doctrine = new_fleet_in_being
+set_grand_doctrine = new_strategic_destruction
+set_sub_doctrine = large_unit_tactics
+add_mastery = {
+    amount = 200
+    sub_doctrine = large_unit_tactics
+}
+
+
+	complete_special_project = {
+		project = sp:sp_air_radar
+	}
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+
+add_opinion_modifier = { target = PRC modifier = hostile_status }
