@@ -17,6 +17,10 @@ state = {
 				naval_base = 3
 			}
 		}
+		set_demilitarized_zone = yes
+		add_dynamic_modifier = {
+			modifier = sudan_modifier
+		}
 	}
 
 	provinces = {

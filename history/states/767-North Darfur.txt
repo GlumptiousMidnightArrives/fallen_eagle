@@ -16,6 +16,10 @@ state = {
 		buildings = {
 			infrastructure = 0
 		}
+		set_demilitarized_zone = yes
+		add_dynamic_modifier = {
+			modifier = sudan_modifier
+		}
 	}
 
 	provinces = {

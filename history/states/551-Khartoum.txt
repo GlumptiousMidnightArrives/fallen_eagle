@@ -16,8 +16,10 @@ state={
 		victory_points = {
 			12806 3 
 		}
-		
-		
+		set_demilitarized_zone = yes
+		add_dynamic_modifier = {
+			modifier = sudan_modifier
+		}
 
 	}
 

@@ -9,6 +9,10 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+		set_demilitarized_zone = yes
+		add_dynamic_modifier = {
+			modifier = sudan_modifier
+		}
 
 	}
 
@@ -18,4 +22,5 @@ state={
 	manpower = 550000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
+	
 }

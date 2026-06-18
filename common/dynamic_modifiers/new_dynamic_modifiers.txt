@@ -1,0 +1,8 @@
+sudan_modifier = {
+	enable = { always = yes }
+
+	icon = GFX_modifiers_sabotaged_resource
+	
+	recruitable_population_factor = -1
+	disable_strategic_redeployment = yes
+}
