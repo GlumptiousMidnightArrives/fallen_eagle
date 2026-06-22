@@ -1,0 +1,29 @@
+state = {
+
+	id = 1119
+	name = "STATE_1119"
+	manpower = 130000
+	state_category = town
+
+	resources = {
+	}
+
+	history = {
+
+		owner = POL
+		add_core_of = BLR
+		add_core_of = POL
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			11503 1
+		}
+	}
+
+	provinces = {
+		11503 6579 535 3496 9520
+	}
+
+	local_supplies = 0.0 
+}

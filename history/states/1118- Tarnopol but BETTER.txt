@@ -1,0 +1,29 @@
+state = {
+
+	id = 1118
+	name = "STATE_1118"
+	manpower = 450000
+	state_category = town
+
+	resources = {
+	}
+
+	history = {
+
+		owner = POL
+		add_core_of = UKR
+		add_core_of = POL
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			3483 3
+		}
+	}
+
+	provinces = {
+		9558 9454 3483 11427 438 3562 491
+	}
+
+	local_supplies = 0.0 
+}

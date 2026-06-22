@@ -1,0 +1,29 @@
+state = {
+
+	id = 1120
+	name = "STATE_1120"
+	manpower = 90200
+	state_category = rural
+
+	resources = {
+	}
+
+	history = {
+
+		owner = AWC
+		add_core_of = AWC
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			4823 2
+		}
+
+	}
+
+	provinces = {
+		4823 12590 12737 4714 4788 7693 4751 4849 7737
+	}
+
+	local_supplies = 0.0 
+}
