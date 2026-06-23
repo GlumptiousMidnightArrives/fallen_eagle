@@ -423,7 +423,7 @@ BLR = {
 	color_ui = rgb { 180 220 190 }
 }
 MAN = {
-	color = rgb { 255 120 71 }
+	color = rgb { 219 160 66 }
 	color_ui = rgb { 255 120 71 }
 }
 ANG = {
@@ -1189,7 +1189,7 @@ SIC = {
 	color_ui = rgb { 0 77 102 } 
 }
 XIC = {
-	color = rgb { 43 92 181 }
+	color = rgb { 201 157 60 }
 	color_ui = rgb { 45 100 190 } 
 }
 
@@ -1252,7 +1252,7 @@ AWC = {
 	color = rgb { 176 173 135 }
 	color_ui = rgb { 176 173 135 }
 }
-ILL = {
-	color = rgb { 138 117 96 }
-	color_ui = rgb { 138 117 96 }
+ALL = {
+	color = rgb { 112 131 156 }
+	color_ui = rgb { 105 125 150 }
 }

@@ -8,8 +8,8 @@ state = {
 	}
 
 	history = {
-		owner = XIC
-		add_core_of = XIC
+		owner = NXM
+		add_core_of = NXM
 
 		buildings = {
 			infrastructure = 1

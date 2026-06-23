@@ -11,19 +11,8 @@ state = {
 	
 	history = {
 
-		owner = CHI
-		add_core_of = CHI
-		add_core_of = PRC
-
-		1936.1.1 = {
-			IF = {
-				limit = {
-					has_dlc = "No Compromise, No Surrender"
-				}
-				transfer_state_to = SND
-				add_core_of = SND
-			}
-		}
+		owner = JAP
+		add_core_of = XIC
 
 		victory_points = {
 			1104 2 # Yantai
@@ -59,7 +48,7 @@ state = {
 	}
 
 	provinces = {
-		1104 1154 1184 1200 4089 4157 4186 7089 7105 9971 10018 12074 13419
+		1104 1184 1200 4157 4186 7089 7105 10018 12074 13419 13442 4071 1154
 	}
 
 	local_supplies = 4.0 

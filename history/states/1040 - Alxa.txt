@@ -1,0 +1,30 @@
+state={
+	id=1040
+	name="STATE_1040"
+	provinces={
+		4783 7727 7803 8102 10770 10899 8055 12750 5031
+	}
+	manpower=450000
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+	history={
+
+		owner = ALL
+		add_core_of = ALL
+
+		victory_points = {
+			4783 1 # Ejin Banner
+		}
+
+		victory_points = {
+			5031 1 # Alxa Right Banner
+		}
+
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	local_supplies = 0.0 
+}
