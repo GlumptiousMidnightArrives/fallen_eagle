@@ -1,4 +1,4 @@
-﻿capital = 1043 # Pailingmiao
+﻿capital = 612 # Pailingmiao
 
 oob = "MEN_1936"
 

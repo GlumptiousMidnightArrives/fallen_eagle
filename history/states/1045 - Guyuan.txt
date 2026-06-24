@@ -8,8 +8,8 @@ state = {
 	}
 
 	history = {
-		owner = NXM
-		add_core_of = NXM
+		owner = XIC
+		add_core_of = XIC
 
 		buildings = {
 			infrastructure = 1
@@ -22,7 +22,7 @@ state = {
 	}
 
 	provinces = {
-		1985 3745 5025 6638
+		1985 3745 5025 6638 4939 517 1647
 	}
 	
 	buildings_max_level_factor = 1.000

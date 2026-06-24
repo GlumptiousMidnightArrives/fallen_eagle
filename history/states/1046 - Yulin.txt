@@ -1,8 +1,8 @@
 state={
-	id=1046
+	id=1046 # Putai, formerly yulin in the PRC
 	name="STATE_1046"
 	resources={
-		coal = 12 #initial distribution
+		
 	}
 
 	history={
@@ -13,14 +13,14 @@ state={
 		}
 
 		victory_points = {
-			7314 1 
+			1084 2 # Putai 
 		}
 	}
 
 	provinces={
-		1458 7314 7659 
+		1084 10119 12093 11980 10003 7092 11933 9987 7160 11962 7189
 	}
-	manpower = 1057400
+	manpower = 10000000
 	buildings_max_level_factor = 1.000
 	state_category = town
 
