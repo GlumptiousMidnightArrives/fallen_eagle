@@ -81,8 +81,11 @@
  FRA_STATE_51:0 "La Rhénanie"
  GER_STATE_51:0 "Rheinland"
  STATE_52:0 "Oberbayern"
+ BAY_STATE_52:0 "Oba-Bayern"
  STATE_53:0 "Niederbayern"
+ BAY_STATE_53:0 "Niedabaiern"
  STATE_54:0 "Franken"
+ BAY_STATE_54:0 "Franggn"
  STATE_55:0 "Hessen"
  STATE_56:0 "Weser-Ems"
  STATE_57:0 "Westfalen"
@@ -1336,7 +1339,7 @@
  STATE_1079: "Auckland"
  STATE_1080: "Marlborough"
  STATE_1081: "Otago"
-
+ STATE_1122: "Magdeburg"
 
 
 
