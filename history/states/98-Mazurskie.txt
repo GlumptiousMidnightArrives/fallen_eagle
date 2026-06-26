@@ -6,7 +6,10 @@ state={
 	state_category = rural
 	history={
 		victory_points = {
-			3230 5
+			3230 5 # Płock
+		}
+		victory_points = {
+			6401 1 # Włocławek
 		}
 		owner = POL
 		buildings = {

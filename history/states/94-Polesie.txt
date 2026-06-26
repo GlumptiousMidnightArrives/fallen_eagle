@@ -9,10 +9,10 @@ state={
 
 		}
 		victory_points = {
-			3392 1
+			3392 4 # Brześć nad Bugiem
 		}
 		victory_points = {
-			560 1
+			560 1 # Pińsk
 		}
 		add_core_of = POL
 		add_core_of = BLR

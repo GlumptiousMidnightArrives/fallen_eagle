@@ -83,3 +83,5 @@ set_politics = {
 set_popularities = {
 	neutrality = 100
 }
+
+set_cosmetic_tag = horse

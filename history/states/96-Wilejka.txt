@@ -7,10 +7,13 @@ state={
 	
 	history={
 		victory_points = {
-			406 1
+			406 1 # Młoteczno
 		}
-		owner = POL
-		buildings = {
+		victory_points = {
+			233 1 # Brasław
+		}
+		owner = POL		
+		buildings = {	
 			infrastructure = 2
 		}
 		add_core_of = POL

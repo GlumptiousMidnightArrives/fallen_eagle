@@ -14,7 +14,10 @@ state={
 		add_claim_by = LIT
 
 		victory_points = {
-			3393 1
+			3393 2 # Grodno
+		}
+		victory_points = {
+			6413 1 # Lida
 		}
 	}
 
