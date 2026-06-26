@@ -26,10 +26,6 @@ state = {
 		}
 
 		victory_points = {
-			3444 5 # Düsseldorf
-		}
-
-		victory_points = {
 			3547 1 # Bonn
 		}
 
