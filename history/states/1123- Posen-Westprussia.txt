@@ -2,7 +2,7 @@ state = {
 
 	id = 1123
 	name = "STATE_1123"
-	manpower =  470600
+	manpower =  370600
 	state_category = rural
 	
 	resources = {
@@ -14,9 +14,10 @@ state = {
 		owner = GER
 		add_core_of = GER
 		add_core_of = PRE
+		add_core_of = POM
 
 		victory_points = {
-			11260 1
+			11260 1 #Shneidehmul
 		}
 
 		buildings = {
@@ -26,7 +27,7 @@ state = {
 	}
 
 	provinces = {
-		13443 11478 9252 11260 11288
+		9252 11260 11288
 	}
 
 	local_supplies = 4.0 

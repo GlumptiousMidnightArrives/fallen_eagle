@@ -1256,3 +1256,13 @@ ALL = {
 	color = rgb { 112 131 156 }
 	color_ui = rgb { 105 125 150 }
 }
+
+OLD = {
+	color = rgb { 53 57 99 }
+	color_ui = rgb { 73 77 119 }
+}
+
+POM = {
+	color = rgb { 242 144 82 }
+	color_ui = rgb { 255 164 102 }
+}
