@@ -6,4 +6,4 @@ tags={
 	"Ideologies"
 }
 name="Fallen Eagle"
-supported_version="1.18.3.0" #AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+supported_version="1.18.3.0" #larp
