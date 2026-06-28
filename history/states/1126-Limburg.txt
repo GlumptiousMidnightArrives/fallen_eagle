@@ -1,0 +1,32 @@
+state = {
+
+	id = 1126
+	name = "STATE_1126"
+	manpower =  610000
+	state_category = town
+	
+	resources = {
+		
+	}
+	
+	history = {
+
+		owner = HOL
+		add_core_of = HOL
+
+		victory_points = {
+			11562 1 
+		}
+
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces = {
+		13416 6500 11562
+	}
+
+	local_supplies = 2.0 
+}
