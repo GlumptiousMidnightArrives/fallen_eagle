@@ -1,0 +1,36 @@
+state = {
+
+	id = 1127
+	name = "STATE_1127"
+	manpower =  1000100
+	state_category = town
+	
+	resources = {
+		
+	}
+	
+	history = {
+
+		owner = SIP
+		add_core_of = SIP
+
+		victory_points = {
+			5048 1 # Mienyang
+		}
+
+		victory_points = {
+			2091 1 # Guangyuan
+		}
+
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces = {
+		5048 2030 10144 7240 2091 7256 12274
+	}
+
+	local_supplies = 2.0 
+}

@@ -1,0 +1,16 @@
+characters = {
+	CHI_deng_xihou = {
+		name = CHI_deng_xihou
+			portraits = {
+				civilian = {
+					large = "GFX_Portrait_asia_generic_4"
+				}
+			}
+			country_leader = {
+				ideology = oligarchism
+				traits = { the_mountain_king }
+				expire = "1965.1.1.1"
+				id = -1
+			}
+	}
+}

@@ -1,0 +1,32 @@
+state = {
+
+	id = 1128
+	name = "STATE_1128"
+	manpower =  1000100
+	state_category = town
+	
+	resources = {
+		
+	}
+	
+	history = {
+
+		owner = TAN
+		add_core_of = TAN
+
+		victory_points = {
+			10787 1 # Muerkvua
+		}
+
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces = {
+		10817 4403 4313 10787
+	}
+
+	local_supplies = 2.0 
+}

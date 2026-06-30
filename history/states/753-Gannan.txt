@@ -1,0 +1,29 @@
+state = {
+	id = 753
+	name = "STATE_753"
+	
+	manpower = 2000000
+	buildings_max_level_factor = 1.000
+	state_category = rural
+
+	history = {
+
+		owner = FUA
+		add_core_of = FUA
+
+		victory_points = {
+			5193 1 # Minsien
+		}
+
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces = {
+		1257 2045 4375 5193 9966 10132 10903
+	}
+	local_supplies = 1.0 
+
+}

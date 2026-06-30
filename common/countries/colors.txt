@@ -1266,3 +1266,18 @@ POM = {
 	color = rgb { 242 144 82 }
 	color_ui = rgb { 255 164 102 }
 }
+
+SIP = {
+	color = rgb { 186 144 65 }
+	color_ui = rgb { 45 100 190 } 
+}
+
+XPG = {
+	color = rgb { 37 134 156 }
+	color_ui = rgb { 37 134 156 } 
+}
+
+FUA = {
+	color = rgb { 60 102 140 }
+	color_ui = rgb { 60 102 140 } 
+}
