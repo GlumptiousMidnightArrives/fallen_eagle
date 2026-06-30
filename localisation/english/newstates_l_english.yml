@@ -89,3 +89,7 @@
  STATE_845: "Romandie"
  STATE_1127: "Beichuan"
  STATE_1128: "Ngawa"
+ STATE_1129: "Zeelandic Flanders"
+ HOL_STATE_1129: "Zeeuws-Vlaanderen"
+ BEL_STATE_1129: "Zêeuws-Vloandern"
+ FRA_STATE_1129: "La Flandre Zélandaise"
