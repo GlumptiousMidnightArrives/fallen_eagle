@@ -1,0 +1,32 @@
+state = {
+
+	id = 1130
+	name = "STATE_1130"
+	manpower =  73000
+	state_category = town
+	
+	resources = {
+		
+	}
+	
+	history = {
+
+		owner = POL
+		add_core_of = POL
+
+		victory_points = {
+			6484 1 # Chelm 
+		}
+
+		buildings = {
+			infrastructure = 3
+		}
+
+	}
+
+	provinces = {
+		6484 11466 9452 6580 11507
+	}
+
+	local_supplies = 2.0 
+}
