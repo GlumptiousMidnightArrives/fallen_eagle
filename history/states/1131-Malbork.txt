@@ -1,0 +1,36 @@
+state = {
+	id = 1131
+	name = "STATE_1131"
+	manpower = 56030
+	
+	state_category = pastoral
+
+	history = {
+
+		owner = POL
+		add_core_of = POL
+		add_core_of = DNZ
+		add_claim_by = PRE
+
+		victory_points = {
+			13447 2 # Malbork
+		}
+		
+		set_demilitarized_zone = yes
+		
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+		}
+		
+		1938.3.12 = {
+			add_claim_by = GER
+		}
+	}
+
+	provinces = {
+		13447
+	}
+
+	local_supplies = 0.0 
+}

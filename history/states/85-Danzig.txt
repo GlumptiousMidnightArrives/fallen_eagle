@@ -1,16 +1,15 @@
 state = {
 	id = 85
 	name = "STATE_85"
-	manpower = 366730
+	manpower = 316702
 	
-	state_category = city
+	state_category = large_town
 
 	history = {
 
 		owner = POL
 		add_core_of = POL
 		add_core_of = DNZ
-		add_core_of = KSH
 		add_claim_by = PRE
 
 		victory_points = {
@@ -23,7 +22,7 @@ state = {
 			infrastructure = 3
 			arms_factory = 2
 			industrial_complex = 1
-			dockyard = 3
+			dockyard = 2
 			362 = {
 				naval_base = 5
 			}
