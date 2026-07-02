@@ -9,9 +9,6 @@ state={
 	history={
 		owner = POL
 		victory_points = {
-			9427 20 # Kraków
-		}
-		victory_points = {
 			442 3 # Tarnów
 		}
 		victory_points = {
@@ -23,7 +20,6 @@ state={
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
-			industrial_complex = 3
 			air_base = 4
 
 		}
@@ -32,11 +28,10 @@ state={
 	}
 
 	provinces={
-		417 442 466 3410 6499 6522 9412 9427 11398 11413 13205 
+		417 442 466 3410 6499 6522 9412 11398 11413 
 	}
-	manpower=3692800
-	buildings_max_level_factor=1.000
-	state_category=large_city
+	manpower=3002800
+	state_category=rural
 
 	local_supplies=12.0 
 }

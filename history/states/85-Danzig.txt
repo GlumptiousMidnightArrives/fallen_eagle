@@ -15,6 +15,9 @@ state = {
 		victory_points = {
 			362 10 # Danzig
 		}
+		victory_points = {
+			13447 2 # Malbork
+		}
 		
 		set_demilitarized_zone = yes
 		
@@ -34,7 +37,7 @@ state = {
 	}
 
 	provinces = {
-		362
+		362 13447
 	}
 
 	local_supplies = 0.0 

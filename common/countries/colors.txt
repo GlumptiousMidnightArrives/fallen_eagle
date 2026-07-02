@@ -1281,3 +1281,8 @@ FUA = {
 	color = rgb { 60 102 140 }
 	color_ui = rgb { 60 102 140 } 
 }
+
+KRK = {
+	color = rgb { 155 155 237 }
+	color_ui = rgb { 175 175 255 } 
+}
