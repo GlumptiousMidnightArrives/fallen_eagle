@@ -103,5 +103,6 @@
  GER_STATE_1132: "Leslau"
  STATE_1133: "Toruń"
  GER_STATE_1133: "Thorn"
- STATE_1134: "Szczecin"
- GER_STATE_1134: "Stettin"
+ POL_STATE_1134: "Szczecin"
+ STATE_1134: "Stettin"
+ KSH_STATE_1134: "Sztetëno"
