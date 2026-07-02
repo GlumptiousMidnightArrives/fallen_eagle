@@ -9,7 +9,7 @@ state = {
 
 		owner = POL
 		add_core_of = POL
-		add_core_of = KRK
+		# add_core_of = KRK evil pudd said no :(
 		
 		
 		buildings = {
