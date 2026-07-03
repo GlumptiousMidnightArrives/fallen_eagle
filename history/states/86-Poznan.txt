@@ -15,6 +15,10 @@ state = {
 			6558 10 # Poznan
 		}
 
+		victory_points = {
+			3381 2 # Gniezno
+		}
+
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
