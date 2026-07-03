@@ -1,0 +1,6 @@
+spriteTypes = {
+    spriteType = {
+        name = GFX_Portrait_HUN_older_bela_kun
+        texturefile = gfx/leaders/hun/HUN_older_bela_kun.dds
+    }
+}

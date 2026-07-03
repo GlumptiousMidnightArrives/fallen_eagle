@@ -1282,7 +1282,8 @@ FUA = {
 	color_ui = rgb { 60 102 140 } 
 }
 
-KRK = {
-	color = rgb { 155 155 237 }
-	color_ui = rgb { 175 175 255 } 
-}
+ # removed for now due to causing unecessary errors
+# KRK = {
+# 	color = rgb { 155 155 237 }
+# 	color_ui = rgb { 175 175 255 } 
+# }

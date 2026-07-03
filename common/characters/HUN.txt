@@ -403,17 +403,17 @@ characters = {
 
 	HUN_bela_kun = {
 
-		name = HUN_bela_kun
+		name = HUN_bela_kun_new
 
 		portraits = {
 			civilian = {
-				large = "GFX_Portrait_hungary_bela_kun"
+				large = "GFX_Portrait_HUN_older_bela_kun"
 			}
 		}
 
 		country_leader = {
 			ideology = marxism
-			traits = { HUN_the_hungarian_lenin }
+			traits = { HUN_vanguard_of_the_hungarian_experiment }
 			expire = "1965.1.1.1"
 			id = -1
 		}
