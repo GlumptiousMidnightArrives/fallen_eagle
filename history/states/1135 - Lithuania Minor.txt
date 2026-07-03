@@ -1,0 +1,29 @@
+state = {
+	id = 1135
+	name = "STATE_1135"
+	manpower = 700000
+	
+	state_category = rural
+
+	history = {
+
+		owner = GER
+		add_core_of = GER
+		add_core_of = PRE
+
+		victory_points = {
+			3384 1 # Gumbinnen
+		}
+
+		buildings = {
+			infrastructure = 2
+		}
+		
+	}
+
+	provinces = {
+		348 281 395 3384
+	}
+
+	local_supplies = 7.0 
+}

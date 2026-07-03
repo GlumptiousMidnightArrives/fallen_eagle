@@ -1,7 +1,7 @@
 state = {
 	id = 763
 	name = "STATE_763"
-	manpower = 2140234
+	manpower = 1440234
 	state_category = city
 
 	history = {
@@ -33,7 +33,7 @@ state = {
 	}
 
 	provinces = {
-		281 348 395 3384 6332 11265
+		6332 11265 13448 9398 11245 6402
 	}
 
 	local_supplies = 0.0 
