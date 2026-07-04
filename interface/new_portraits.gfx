@@ -1,6 +1,11 @@
 spriteTypes = {
     spriteType = {
         name = GFX_Portrait_HUN_older_bela_kun
-        texturefile = gfx/leaders/hun/HUN_older_bela_kun.dds
+        texturefile = gfx/leaders/HUN/HUN_older_bela_kun.dds
+    }
+
+    spriteType = {
+        name = GFX_Portrait_SOV_mikhail_diterikhs
+        texturefile = gfx/leaders/SOV/SOV_mikhai_dietrikhs.dds
     }
 }

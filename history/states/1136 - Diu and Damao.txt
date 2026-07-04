@@ -1,0 +1,32 @@
+state = {
+	id = 1136
+	name = "STATE_1136"
+	manpower = 68000
+	
+	state_category = rural
+
+	history = {
+
+		owner = POR
+		add_core_of = RAJ
+
+		victory_points = {
+			13449 1 # Diu
+		}
+
+		victory_points = {
+			13451 1 # Damao
+		}
+
+		buildings = {
+			infrastructure = 2
+		}
+		
+	}
+
+	provinces = {
+		13449 13450 13451
+	}
+
+	local_supplies = 7.0 
+}
