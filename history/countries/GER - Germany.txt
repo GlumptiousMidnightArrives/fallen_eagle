@@ -579,16 +579,18 @@ set_war_support = 0.15
 
 # Setup German Politics
 set_politics = {
-	ruling_party = democratic
+	ruling_party = liberalism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 35
-	fascism = 27
-	communism = 21
-	neutrality = 17
+	democratic = 25
+	liberalism = 26
+	communism = 10
+	socialism = 15
+	neutrality = 19
+	fascism = 5
 }
 
 # Setup of National Spirits
