@@ -8,4 +8,9 @@ spriteTypes = {
         name = GFX_Portrait_SOV_mikhail_diterikhs
         texturefile = gfx/leaders/SOV/SOV_mikhai_dietrikhs.dds
     }
+
+    spriteType = {
+        name = GFX_Portrait_GER_otto_gessler
+        texturefile = gfx/leaders/GER/GER_otto_gessler.dds
+    }
 }
