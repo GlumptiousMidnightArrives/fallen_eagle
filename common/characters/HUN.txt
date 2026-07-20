@@ -438,7 +438,7 @@ characters = {
 			}
 
 			country_leader = {
-				ideology = socialism
+				ideology = type_socialism
 				expire = "1965.1.1.1"
 				id = -1
 			}
@@ -459,7 +459,7 @@ characters = {
 			}
 			
 			country_leader = {
-				ideology = socialism
+				ideology = type_socialism
 				traits = { HUN_socialist_bulwark }
 				expire = "1965.1.1.1"
 				id = -1

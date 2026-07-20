@@ -7,6 +7,7 @@
  socialism_desc: "Socialist Regime"
  classical_liberalism: "Classical Liberalism"
  classical_liberalism_desc: "Classical Liberalism is a political tradition and a branch of Liberalism which advocates for a free market with lassez-faire economics and civil liberties under the rule of law, historically it prioritizes individual autonomy."
+ type_socialism: "Classical Socialism"
 
  GER_socialism_party: "SPD"
  GER_socialism_party_long: "Sozialdemokratische Partei Deutschlands"

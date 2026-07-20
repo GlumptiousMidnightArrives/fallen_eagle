@@ -261,7 +261,9 @@ ideologies = {
 	socialism = {
 
 		types = {
+			type_socialism = {
 
+			}
 		}
 
 		dynamic_faction_names = {
