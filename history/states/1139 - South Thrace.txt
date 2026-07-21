@@ -1,0 +1,32 @@
+state = {
+	id = 1139
+	name = "STATE_1139"
+	manpower = 120000
+	
+	state_category = rural
+
+	history = {
+
+		owner = GRE
+		add_core_of = GRE
+
+		victory_points = {
+			849 1 # Gallipoli
+		}
+
+		victory_points = {
+			3879 2
+		}
+
+		buildings = {
+			infrastructure = 3
+		}
+		
+	}
+
+	provinces = {
+		849 3879 6895
+	}
+
+	local_supplies = 7.0 
+}
