@@ -118,3 +118,7 @@
  POR_STATE_1136: "Diu e Damaõ"
  STATE_1137: "Malacca-Manjung"
  ENG_STATE_1137: "Straits Settlements"
+ STATE_1138: "Western Cameroons"
+ ENG_STATE_1138: "British Cameroons"
+ STATE_660:0 "Ubangi-Shari"
+ STATE_774:0 "T'chad"
