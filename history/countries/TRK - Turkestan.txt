@@ -1,4 +1,4 @@
-﻿capital = 405 #Khiva
+﻿capital = 1105 #Kokand
 
 #oob = "KHI_1936"
 

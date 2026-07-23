@@ -15,10 +15,10 @@ state = {
 		add_core_of = TRK
 		add_core_of = KYR
 		victory_points = {
-			13429 2
+			13429 5
 		}
 		victory_points = {
-			13431 5
+			13431 3
 		}
 		victory_points = {
 			13430 1
