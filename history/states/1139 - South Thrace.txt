@@ -7,8 +7,8 @@ state = {
 
 	history = {
 
-		owner = GRE
-		add_core_of = GRE
+		owner = ISC
+		add_core_of = ISC
 
 		victory_points = {
 			849 1 # Gallipoli

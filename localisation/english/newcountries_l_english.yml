@@ -204,6 +204,12 @@
  UKR_socialism_ADJ: "Ukrainian"
  URG_neutrality: "Oriental Republic of Uruguay"
  URG_neutrality_DEF: "the Oriental Republic of Uruguay"
+ ISC_neutrality: "International Straits Commission"
+ ISC_fascism: "Straits Commission"
+ ISC_democratic: "International Straits Republic"
+ ISC_communism: "Free Straits Republic"
+ ISC_socialism: "International Straits Commission"
+ ISC_liberalism: "International Straits Republic"
  # removed for now, keeping names so we dont have to rewrite them
  # KRA_fascism_DEF: "Empire of Vistula"
  # KRA_fascism: "Empire of Vistula"
