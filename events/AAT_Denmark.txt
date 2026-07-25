@@ -1,0 +1,46 @@
+#############################
+#############################
+#### AAT DENMARK EVENTS ####
+#############################
+#############################
+
+add_namespace = denmark_political_events
+add_namespace = denmark_occupation_event
+add_namespace = denmark_resistance_event
+add_namespace = denmark_overlord_events
+add_namespace = denmark_trade_deal
+add_namespace = denmark_protection_event
+add_namespace = denmark_expansion_event
+add_namespace = denmark_fascist_event
+add_namespace = denmark_events
+country_event = {
+	country_event = {
+	id = denmark_political_events.1
+	title = denmark_political_events.1.t
+	desc = denmark_political_events.1.desc
+	picture = GFX_report_event_bul_aircraft_repairs
+	
+	is_triggered_only = yes
+
+	fire_only_once = yes
+	
+	option = { 
+		name = denmark_political_events.1.a
+		ai_chance = {
+			factor = 100
+		}
+
+		add_tech_bonus = {
+			bonus = 0.5
+			uses = 1
+			category = air_equipment
+		}	
+		
+		add_offsite_building = {
+			type = industrial_complex
+			level = 2
+		}	
+
+	}
+}
+}

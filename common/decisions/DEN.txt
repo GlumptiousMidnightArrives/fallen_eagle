@@ -1,0 +1,84 @@
+##########################
+##########################
+#### BALANCE OF POWER ####
+##########################
+##########################
+debug_decisions = {
+	DEBUG_DANNE = {
+		priority = 999
+		allowed = {
+			always = yes
+			tag = DEN
+		}
+
+		visible = {
+			is_debug = yes
+		}
+
+		available = {
+			
+		}
+
+		complete_effect = {	
+			#LAT = { country_event = { id = denmark_expansion_event.200 hours = 2 }}
+			#if = {
+			#	limit = {
+			#		Tag = GER
+			#	}
+			#	DEN= { country_event = { id = denmark_occupation_event.2 hours = 2 }}
+			#}
+			if = {
+				limit = {
+					NOT = { has_country_flag = DEN_has_occupation_flag }
+				}
+				GER = { country_event = { id = denmark_occupation_event.2 hours = 2 }}
+			}		
+			else_if = {
+				limit = {
+					has_country_flag = DEN_has_occupation_flag
+				}
+				GER = { end_puppet = ROOT }
+				clr_country_flag = DEN_has_occupation_flag
+				mark_focus_tree_layout_dirty = yes
+			}
+			#USA = { country_event = { id =  denmark_protection_event.1 hours = 2 }}
+			#create_wargoal = {
+			#		type = take_state
+			#		target = SWE
+			#		generator = { 138 }
+			#	}
+			#every_other_country = {
+			#	limit = {
+			#		any_controlled_state = {
+			#			OR = {
+			#				is_core_of = LAT
+			#				is_core_of = LIT
+			#				is_core_of = EST 
+			#			}
+			#		}
+			#		NOT = {
+			#			tag = LAT
+			#			tag = LIT
+			#			tag = EST
+			#		}
+			#	}
+			#	every_owned_state = {
+			#		limit = {
+			#			OR = {
+			#				is_core_of = LAT
+			#				is_core_of = LIT
+			#				is_core_of = EST 
+			#			}
+			#		}
+			#		ROOT = {
+			#			create_wargoal = {
+			#				type = take_state
+			#				target = PREV.OWNER
+			#				generator = { PREV }
+			#			}
+			#		}	
+			#	}
+			#}
+		}
+	}
+}

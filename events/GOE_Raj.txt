@@ -1,0 +1,57 @@
+###########################
+# RAJ GOE events Events
+###########################
+
+add_namespace = GOE_RAJ
+add_namespace = GOE_RAJ_partition
+add_namespace = GOE_RAJ_famine
+add_namespace = GOE_RAJ_eic
+add_namespace = GOE_RAJ_princely
+add_namespace = GOE_RAJ_navy
+add_namespace = GOE_RAJ_goa
+add_namespace = GOE_RAJ_generals
+add_namespace = GOE_RAJ_mughals_peace_deal
+add_namespace = GOE_RAJ_loyalist
+add_namespace = GOE_RAJ_news
+
+##DESC
+#country_event = {
+#	id = GOE_RAJ.X
+#	title = GOE_RAJ.X.t	
+#	desc = GOE_RAJ.X.desc	
+#	picture = GFX_report_event_generic_sign_treaty2
+#	
+#	is_triggered_only = yes
+#
+#
+#	option = { 
+#		name = GOE_RAJ.X.a
+#		ai_chance = {
+#			base = Y
+#		}
+#	}
+#	option = { 
+#		name = GOE_RAJ.X.b
+#		ai_chance = {
+#			base = Y
+#		}
+#	}
+#}
+
+#RAJ asks the overlord to invade Bhutan
+country_event = {
+	id = GOE_RAJ.1
+	title = GOE_RAJ.1.t	
+	desc = GOE_RAJ.1.desc	
+	picture = GFX_report_event_generic_sign_treaty2
+	
+	is_triggered_only = yes
+
+
+	#yes
+	option = { 
+		name = GOE_RAJ.1.a
+	}
+
+	#No
+}
