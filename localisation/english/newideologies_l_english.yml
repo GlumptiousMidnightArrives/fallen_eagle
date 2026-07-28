@@ -5,6 +5,7 @@
  socialism: "Socialist"
  socialism_noun: "Socialism"
  socialism_desc: "Socialist Regime"
+ 
  classical_liberalism: "Classical Liberalism"
  classical_liberalism_desc: "Classical Liberalism is a political tradition and a branch of Liberalism which advocates for a free market with lassez-faire economics and civil liberties under the rule of law, historically it prioritizes individual autonomy."
  type_socialism: "Classical Socialism"
@@ -39,6 +40,7 @@
  SWE_liberalism_party_long: "Folkpartiet"
  SWE_socialism_party: "SAP"
  SWE_socialism_party_long: "Sveriges socialdemokratiska arbetareparti"
+
  ROM_neutrality_party: "FRN"
  ROM_neutrality_party_long: "Frontul Renasterii Nationale"
  ROM_communism_party: "PCR"
@@ -53,3 +55,10 @@
  ROM_socialism_party_long: "Partidul Social Democrat Roman"
  ROM_liberalism_party: "PNL"
  ROM_liberalism_party_long: "Partidul National Liberal"
+
+ USA_communism_party: "Communist Party USA"
+ USA_democratic_party: "Republican Party"
+ USA_socialism_party: "Socialist Party of America"
+ USA_fascism_party: "Silver Legion of America"
+ USA_neutrality_party: "Technocracy Movement"
+ USA_liberalism_party: "Democratic Party"
