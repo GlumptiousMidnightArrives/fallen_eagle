@@ -1,0 +1,17 @@
+characters = {
+	TRK_mustafa_shokay = {
+		name=TRK_mustafa_shokay
+		portraits={
+			civilian={
+				large=GFX_Portrait_TRK_mustafa_shokay
+			}
+		}
+
+		country_leader={
+			ideology=oligarchism
+			expire="1965.1.1.1"
+			id=-1
+			traits = { TRK_national_pacifist }
+		}
+	}
+}

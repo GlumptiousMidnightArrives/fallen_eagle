@@ -6491,7 +6491,6 @@ focus_tree = {
 				custom_effect_tooltip = if_they_accept_tt
 			}
 			effect_tooltip = {
-				DEN_sell_territory_for_guarantees = yes
 				give_guarantee = DEN
 				DEN = {
 					add_offsite_building = { type = industrial_complex level = 2 }
@@ -7068,7 +7067,6 @@ focus_tree = {
 			    popularity = 0.05
 			}
 
-			DEN_the_king_takes_over = yes
 		}
 	}
 

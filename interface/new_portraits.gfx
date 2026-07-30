@@ -23,4 +23,9 @@ spriteTypes = {
         name = GFX_Portrait_KAZ_alikhan_buteikhanov
         texturefile = gfx/leaders/KAZ/KAZ_alikhan_buteikhanov.dds
     }
+
+    spriteType = {
+        name = GFX_Portrait_TRK_mustafa_shokay
+        texturefile = gfx/leaders/TRK/TRK_mustafa_shokay.dds
+    }
 }
