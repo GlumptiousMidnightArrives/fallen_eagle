@@ -121,6 +121,7 @@ create_country_leader = {
 	}
 }
 
+recruit_character = KAZ_alikhan_buteikhanov
 recruit_character = KAZ_awt
 recruit_character = KAZ_acd2
 recruit_character = KAZ_nt

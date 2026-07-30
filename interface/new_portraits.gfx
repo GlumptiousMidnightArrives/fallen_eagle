@@ -18,4 +18,9 @@ spriteTypes = {
         name = GFX_Portrait_LIT_silvestras_zukauskas
         texturefile = gfx/leaders/LIT/LIT_silvestras_zukauskas.dds
     }
+
+    spriteType = {
+        name = GFX_Portrait_KAZ_alikhan_buteikhanov
+        texturefile = gfx/leaders/KAZ/KAZ_alikhan_buteikhanov.dds
+    }
 }
