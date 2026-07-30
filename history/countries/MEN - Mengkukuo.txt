@@ -11,6 +11,8 @@ set_technology = {
 
 set_cosmetic_tag = beiyang_chahar
 
+recruit_character = MAN_wang_ying
+
 recruit_character = MEN_prince_demchugdongrub
 recruit_character = MEN_hesehn_tiemei
 recruit_character = MEN_guan_xingde

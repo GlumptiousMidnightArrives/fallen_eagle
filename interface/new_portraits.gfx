@@ -28,4 +28,9 @@ spriteTypes = {
         name = GFX_Portrait_TRK_mustafa_shokay
         texturefile = gfx/leaders/TRK/TRK_mustafa_shokay.dds
     }
+
+    spriteType = {
+        name = GFX_Portrait_MAN_wang_ying
+        texturefile = gfx/leaders/MAN/MAN_wang_ying.dds
+    }
 }
