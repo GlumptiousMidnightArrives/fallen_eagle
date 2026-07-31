@@ -1,0 +1,23 @@
+state = {
+	id = 1147
+	name = "STATE_1147"
+	manpower = 51000
+	
+	state_category = pastoral
+
+	history = {
+		owner = PAL
+		add_core_of = PAL
+		add_core_of = ISR
+		buildings = {
+			infrastructure = 1
+		}
+		
+	}
+
+	provinces = {
+		13456 7176 1015
+	}
+
+	local_supplies = 7.0 
+}

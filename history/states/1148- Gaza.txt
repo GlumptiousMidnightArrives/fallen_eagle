@@ -1,0 +1,25 @@
+state = {
+	id = 1148
+	name = "STATE_1148"
+	manpower = 80000
+	
+	state_category = pastoral
+
+	history = {
+		owner = PAL
+		add_core_of = PAL
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			11970 2 # Gaza
+		}
+		
+	}
+
+	provinces = {
+		11970
+	}
+
+	local_supplies = 7.0 
+}

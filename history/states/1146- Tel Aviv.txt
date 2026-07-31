@@ -1,0 +1,33 @@
+state = {
+	id = 1146
+	name = "STATE_1146"
+	manpower = 230000
+	
+	state_category = rural
+
+	history = {
+		victory_points = {
+			4206 5 # Tel Aviv
+		}
+		victory_points = {
+			1065 2 # Nazareth
+		}
+		owner = PAL
+		add_core_of = PAL
+		add_core_of = ISR
+
+		buildings = {
+			infrastructure = 2
+			4206 = {
+				naval_base = 3
+			}
+		}
+		
+	}
+
+	provinces = {
+		4206 1201 1065
+	}
+
+	local_supplies = 7.0 
+}

@@ -1,0 +1,35 @@
+state = {
+	id = 454
+	name = "STATE_454" #Palestine
+	manpower = 560142
+	
+	state_category = rural
+
+	history = {
+
+		owner = PAL
+		add_core_of = PAL
+
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 1
+			air_base = 2
+		}
+		victory_points = {
+			1086 15 # Jerusalem
+		}
+		victory_points = {
+			4088 3 # Hebron
+		}
+		victory_points = {
+			13457 5 # Ramallah
+		}
+		
+	}
+
+	provinces = {
+		1086 4088 7107 1 13457
+	}
+
+	local_supplies = 0.0 
+}
