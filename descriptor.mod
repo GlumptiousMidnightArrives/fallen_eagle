@@ -5,5 +5,5 @@ tags={
 	"Map"
 	"Ideologies"
 }
-name="Fallen Eagle"
+name="Aquila Renata"
 supported_version="1.19.2.0" #larp
