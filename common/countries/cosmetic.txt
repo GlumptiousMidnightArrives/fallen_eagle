@@ -1911,3 +1911,8 @@ SAB_UK = {
     color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
+
+TUR_communism_clr = {
+	color = rgb { 207 54 54 }
+	color_ui = rgb { 207 54 54 }
+}

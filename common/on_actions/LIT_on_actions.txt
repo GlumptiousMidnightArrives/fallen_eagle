@@ -4,8 +4,8 @@ on_actions = {
 			if = {
 				limit = { 
 					AND = {
-						original_tag = LIT
-						is_subject_of = POL
+						original_tag = LIT 
+						is_subject_of = POL 
 					}
 				}
 				set_cosmetic_tag = LIT_POL_puppet
@@ -17,8 +17,8 @@ on_actions = {
 			if = {
 				limit = { 
 					AND = {
-						original_tag = LIT
-						is_subject_of = POL
+						original_tag = LIT 
+						is_subject_of = POL 
 					}
 				}
 				set_cosmetic_tag = LIT_POL_puppet
@@ -29,7 +29,7 @@ on_actions = {
             effect = {
                 if = {
                     limit = { 
-                        original_tag = LIT
+                        original_tag = LIT 
                     }
                 
 				drop_cosmetic_tag = yes

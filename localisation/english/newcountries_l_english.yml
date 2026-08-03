@@ -210,6 +210,9 @@
  ISC_communism: "Free Straits Republic"
  ISC_socialism: "International Straits Commission"
  ISC_liberalism: "International Straits Republic"
+
+ TUR_communism:0 "Turkish Socialist Workers' Republic"
+ TUR_communism_DEF:0 "the Turkish Socialist Workers' Republic"
  # removed for now, keeping names so we dont have to rewrite them
  # KRA_fascism_DEF: "Empire of Vistula"
  # KRA_fascism: "Empire of Vistula"

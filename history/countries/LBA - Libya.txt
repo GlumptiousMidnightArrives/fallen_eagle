@@ -1,22 +1,13 @@
-﻿capital = 907
+﻿capital = 448
 
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
 }
 
-IF = {
-	limit = {
-		has_dlc = "Battle for the Bosporus"
-	}
-	set_technology = { camelry = 1 }
-}
-
 if = {
 	limit = {
-		NOT = {
-			has_dlc = "No Step Back"
-		}
+		NOT = { has_dlc = "No Step Back" }
 	}
 	set_technology = {
 		gwtank = 1
@@ -24,8 +15,6 @@ if = {
 }
 
 set_convoys = 20
-
-#set_cosmetic_tag = EGY_brit_puppet
 
 1939.1.1 = {
 
@@ -47,8 +36,8 @@ set_convoys = 20
 		tech_support = 1
 		tech_recon = 1
 		support_weapons = 1
-		gw_artillery = 1
 		tech_trucks = 1
+		gw_artillery = 1
 
 		#doctrines
 		#air_superiority = 1
@@ -79,7 +68,6 @@ set_grand_doctrine = new_strategic_destruction
 	}
 }
 
-
 set_politics = {
 	ruling_party = neutrality
 	last_election = "1936.1.1"
@@ -94,9 +82,9 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Muhammad Naguib"
+	name = "Bashir es Sadawi"
 	desc = ""
-	picture = GFX_portrait_Muhammad_Naguib
+	picture = GFX_portrait_Bashir_es_Sadawi
 	ideology = classical_liberalism
 	traits = {
 		#
@@ -104,9 +92,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Ahmed Husayn"
+	name = "Ettore Bastico"
 	desc = ""
-	picture = GFX_portrait_Ahmed_Husayn
+	picture = GFX_portrait_Ettore_Bastico
 	ideology = fascism_ideology
 	traits = {
 		#
@@ -114,9 +102,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Farouk Muhammad Ali"
+	name = "Idris Senussi"
 	desc = ""
-	picture = "GFX_portrait_egy_faud_i"
+	picture = GFX_portrait_Idris_Senussi
 	ideology = despotism
 	traits = {
 		#
@@ -124,9 +112,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Hosni al-Arabi"
+	name = "Hassan as-Senussi"
 	desc = ""
-	picture = GFX_portrait_Hosni_al_Arabi
+	picture = GFX_portrait_Hassan_as_Senussi
 	ideology = leninism
 	traits = {
 		#
