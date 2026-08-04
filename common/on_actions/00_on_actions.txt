@@ -439,14 +439,14 @@ on_actions = {
 	#
 	#}
 
-	on_border_war_lost = {
-		effect = {
-			owner = {
-				country_event = { id = china.14 }
-				country_event = { id = china.16 }
-			}
-		}
-	}
+	#on_border_war_lost = {
+	#	effect = {
+	#		owner = {
+	#			country_event = { id = china.14 }
+	#			country_event = { id = china.16 }
+	#		}
+	#	}
+	#}
 
 	# FROM is the faction Leader, ROOT is the country leaving the faction
 	on_leave_faction = {

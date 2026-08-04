@@ -1066,6 +1066,9 @@ debug_decisions = {
 			56 = {
 				transfer_state_to = HAN
 			}
+			1124 = {
+				transfer_state_to = OLD
+			}
 			60 = {
 				transfer_state_to = THU
 			}
@@ -1145,6 +1148,15 @@ debug_decisions = {
 				transfer_state_to = PRE
 			}
 			67 = {
+				transfer_state_to = PRE
+			}
+			1134 = {
+				transfer_state_to = PRE
+			}
+			1125 = {
+				transfer_state_to = PRE
+			}
+			1135 = {
 				transfer_state_to = PRE
 			}
 			51 = {

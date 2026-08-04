@@ -21,7 +21,7 @@ if = {
 	}
 }
 
-set_cosmetic_tag = TUR_communism_clr #colour for turkey
+set_cosmetic_tag = TUR_communism_clr
 
 ###################
 #### 3D MODELS ####

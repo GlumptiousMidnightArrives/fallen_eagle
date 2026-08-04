@@ -33,7 +33,6 @@ IF = {
 	recruit_character = COG_pierre_ryckmans
 
 	# Adding the Belgian Minister of Colonies as a locked advisor
-	add_ideas = BEL_albert_de_vleeschauwer
 }
 
 # Setup 1936 politics 

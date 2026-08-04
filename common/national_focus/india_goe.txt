@@ -7257,8 +7257,6 @@ focus_tree = {
             }
 
             hidden_effect = {
-                country_event = { id = GOE_RAJ_partition.1 days = 80 } 
-                country_event = { id = GOE_RAJ.29 days = 38 }  #April 18ish
             }
 
             hidden_effect = {
@@ -17107,8 +17105,6 @@ focus = {
 		custom_effect_tooltip = RAJ_his_majestys_loyal_government_break_free_tt
 
 		hidden_effect = {
-			country_event = { id = GOE_RAJ_partition.1 days = 80 } # Unrest event
-			country_event = { id = GOE_RAJ.29 days = 38 }  #April 18ish #Freeman retires
 		}
 
 		hidden_effect = {
@@ -17367,7 +17363,6 @@ focus = {
 		set_country_flag = stop_unrest_events
 
 		custom_effect_tooltip = generic_skip_one_line_tt
-		country_event = GOE_RAJ_partition.11
 		effect_tooltip = { #Effect happening in the event
 			set_politics = {
 				ruling_party = democratic

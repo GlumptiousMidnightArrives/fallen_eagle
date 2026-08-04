@@ -1036,7 +1036,7 @@ on_actions = {
 						limit = {
 							has_government = communism
 						}
-						set_cosmetic_tag = TUR_communism
+						set_cosmetic_tag = TUR_communism_clr
 					}
 					else_if = {
 						limit = {

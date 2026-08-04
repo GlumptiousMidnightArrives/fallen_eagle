@@ -213,6 +213,10 @@
 
  TUR_communism:0 "Turkish Socialist Workers' Republic"
  TUR_communism_DEF:0 "the Turkish Socialist Workers' Republic"
+
+ PHI_liberalism: "Commonwealth of the Philippines"
+ PHI_liberalism_DEF: "the Commonwealth of the Philippines"
+ PHI_liberalism_ADJ: "Philippine"
  # removed for now, keeping names so we dont have to rewrite them
  # KRA_fascism_DEF: "Empire of Vistula"
  # KRA_fascism: "Empire of Vistula"

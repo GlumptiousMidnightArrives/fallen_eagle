@@ -12,29 +12,5 @@ on_actions = {
         }
     }
 
-    on_ruling_party_change = {
-		effect = {
-			if = {
-				limit = {
-                    original_tag = TUR
-					NOT = {	has_government = communism }
-				}
-				drop_cosmetic_tag = yes
-			}
-		}	
-	}
-
-    on_ruling_party_change = {
-		effect = {
-            if = {
-                limit = { 
-                    original_tag = TUR
-                    ruling_party = communism
-                }
-                set_cosmetic_tag = TUR_communism_clr
-            }
-		}
-	}
-
  }
 
