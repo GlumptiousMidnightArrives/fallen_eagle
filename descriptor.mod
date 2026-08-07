@@ -10,7 +10,7 @@ supported_version="1.19.2.0" #larp
 
  replace_path = "gfx/loadingscreens"
  replace_path = "dlc/dlc028_la_resistance/gfx/loadingscreens"
- replace_path = "dlc/dlc031_battle_for_the_bosporus\gfx\loadingscreens"
+ replace_path = "dlc/dlc031_battle_for_the_bosporus/gfx/loadingscreens"
  replace_path = "dlc/dlc034_no_step_back/gfx/loadingscreens"
  replace_path = "dlc/dlc036_by_blood_alone/gfx/loadingscreens"
  replace_path = "dlc/dlc038_arms_against_tyranny/gfx/loadingscreens"
