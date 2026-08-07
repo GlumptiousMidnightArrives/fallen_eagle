@@ -38,4 +38,9 @@ spriteTypes = {
         name = GFX_Portrait_TUR_mustafa_suphi
         texturefile = gfx/leaders/TUR/TUR_mustafa_suphi.dds
     }
+
+    spriteType = {
+        name = GFX_Portrait_LUX_joseph_bech_new
+        texturefile = gfx/leaders/LUX/LUX_joseph_bech_new.dds
+    }
 }
