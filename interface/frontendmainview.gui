@@ -412,6 +412,19 @@ guiTypes = {
 			maxHeight = 20	
 		}
 
+		instantTextBoxType = {
+
+			name ="version_label2"
+			position = { x = 140 y = 431 }
+			textureFile = ""
+			font = "hoi_18b"
+			borderSize = {x = 0 y = 0}
+			text = "VERSION_LOCALIZATION"	
+			format = centre
+			maxWidth = 320
+			maxHeight = 20	
+		}
+
 		positionType = {
 			name = "version_label_subscription_position"
 			position = { x = 0 y = 539 }
