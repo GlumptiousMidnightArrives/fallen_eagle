@@ -375,10 +375,14 @@ guiTypes = {
 	containerWindowType = {
 		name ="mainmenu_panel_bottom"
 		position = { x=-655 y =0}
-		size = { width = 620 height = 1110 }
+		size = { 
+			width = 620
+			height = 1110 
+			min = { width = 0% height = 102% }
+		 }
 		Orientation = CENTER
 		Origo = center	
-
+		
 		background = {
 			name = "Background"		
 			quadTextureSprite ="GFX_tiled_window"
@@ -386,7 +390,7 @@ guiTypes = {
 			
 		ButtonType = {
 			name = "single_player_button"
-			position = { x = 156 y = 470 }
+			position = { x = 166 y = 470 }
 			quadTextureSprite ="GFX_main_lobby_button"
 			font = "hoi_24header"			
 			text = "FE_SINGLE_PLAYER"				
@@ -396,7 +400,7 @@ guiTypes = {
 
 		ButtonType = {
 			name = "multi_player_button"
-			position = { x = 156 y = 520}
+			position = { x = 166 y = 520}
 			quadTextureSprite ="GFX_main_lobby_button"
 			font = "hoi_24header"			
 			text = "FE_MULTI_PLAYER"			
@@ -414,7 +418,7 @@ guiTypes = {
 		instantTextBoxType = {
 
 			name ="version_label"
-			position = { x = 140 y = 411 }
+			position = { x = 150 y = 411 }
 			textureFile = ""
 			font = "hoi_18b"
 			borderSize = {x = 0 y = 0}
@@ -427,7 +431,7 @@ guiTypes = {
 		instantTextBoxType = {
 
 			name ="version_label2"
-			position = { x = 140 y = 431 }
+			position = { x = 150 y = 431 }
 			textureFile = ""
 			font = "hoi_18b"
 			borderSize = {x = 0 y = 0}
@@ -440,7 +444,7 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "settings_button"
-			position = { x = 156 y = 570 }
+			position = { x = 166 y = 570 }
 			quadTextureSprite ="GFX_main_lobby_button"	
 			buttonText = "OPTIONS"
 			buttonFont = "hoi_24header"
@@ -450,7 +454,7 @@ guiTypes = {
 		
 		buttonType = {
 			name = "career_profile_button"
-			position = { x = 156 y = 620 }
+			position = { x = 166 y = 620 }
 			quadTextureSprite ="GFX_main_lobby_button"
 			buttonText = "MENU_BAR_CAREER_PROFILE"
 			buttonFont = "hoi_24header"
@@ -461,7 +465,7 @@ guiTypes = {
 		iconType = {
 			name ="frontend_game_logo"
 			spriteType = "GFX_frontend_game_logo"
-			position = { x= 105 y = 20 }
+			position = { x= 113 y = 20 }
 		}
 		
 		iconType = {
@@ -475,7 +479,7 @@ guiTypes = {
 		
 		buttonType = {
 			name = "friends_button"
-			position = { x = 156 y = 670 }
+			position = { x = 166 y = 670 }
 			quadTextureSprite ="GFX_main_lobby_button"
 			buttonText = "MENU_BAR_FRIENDS"
 			buttonFont = "hoi_24header"
@@ -485,7 +489,7 @@ guiTypes = {
 
 		ButtonType = {
 			name = "credits_button"
-			position = {  x = 156 y = 720 }
+			position = {  x = 166 y = 720 }
 			quadTextureSprite ="GFX_main_lobby_button"	
 			buttonText = "FE_CREDITS"
 			buttonFont = "hoi_24header"
@@ -495,7 +499,7 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "nudge_button"
-			position = { x = 156 y = 900 }
+			position = { x = 166 y = 900 }
 			quadTextureSprite ="GFX_main_lobby_button"	
 			buttonText = "Hey, you there, click me!"
 			buttonFont = "hoi_24header"
@@ -503,7 +507,7 @@ guiTypes = {
 
 		ButtonType = {
 			name = "exit_button"
-			position = { x = 156 y = 770 }
+			position = { x = 166 y = 770 }
 			quadTextureSprite ="GFX_main_lobby_button"
 			font = "hoi_24header"			
 			text = "FE_EXIT"			
