@@ -43,4 +43,14 @@ spriteTypes = {
         name = GFX_Portrait_LUX_joseph_bech_new
         texturefile = gfx/leaders/LUX/LUX_joseph_bech_new.dds
     }
+
+    spriteType = {
+        name = GFX_Portrait_BEL_paul_van_zeeland_new
+        texturefile = gfx/leaders/BEL/BEL_paul_van_zeeland_new.dds
+    }
+
+    spriteType = {
+        name = GFX_Portrait_HOL_hendrikus_colijn_new
+        texturefile = gfx/leaders/HOL/HOL_hendrikus_colijn_new.dds
+    }
 }

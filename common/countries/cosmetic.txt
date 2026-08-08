@@ -1916,3 +1916,8 @@ TUR_communism_clr = {
 	color = rgb { 207 54 54 }
 	color_ui = rgb { 207 54 54 }
 }
+
+danish_germany = {
+	color = rgb { 245 239 66 }
+	color_ui = rgb { 245 239 66 }
+}

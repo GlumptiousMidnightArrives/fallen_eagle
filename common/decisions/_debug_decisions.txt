@@ -1180,4 +1180,80 @@ debug_decisions = {
 			}
 		}
 	}
+
+	debug_the_end_is_upon_us = {
+		priority = -1
+		allowed = {
+			always = yes 
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+		}
+		complete_effect = {
+			custom_effect_tooltip = EVIL_happens
+			hidden_effect = {
+				set_province_name = {
+					id = 6287
+					name = EVIL_COPENHAGEN
+				}
+				set_province_name = {
+					id = 6521
+					name = EVIL_BERLIN
+				}
+				set_province_name = {
+					id = 9347
+					name = EVIL_HAMBURG
+				}
+				set_province_name = {
+					id = 6488
+					name = EVIL_FRANKFURT
+				}
+				set_province_name = {
+					id = 692
+					name = EVIL_MUNICH
+				}
+				DEN = {
+					set_cosmetic_tag = danish_germany
+			annex_country = {
+				target = GER
+			}
+			annex_country = {
+				target = PRE
+			}
+			annex_country = {
+				target = SAX
+			}
+			annex_country = {
+				target = THU
+			}
+			annex_country = {
+				target = BAY
+			}
+			annex_country = {
+				target = WUR
+			}
+			annex_country = {
+				target = HES
+			}
+			annex_country = {
+				target = RHI
+			}
+			annex_country = {
+				target = HAN
+			}
+			annex_country = {
+				target = OLD
+			}
+			annex_country = {
+				target = MEK
+			}
+			annex_country = {
+				target = SHL
+			}
+			}
+			}
+		}
+	}
 }
