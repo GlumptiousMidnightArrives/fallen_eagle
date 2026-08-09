@@ -53,4 +53,9 @@ spriteTypes = {
         name = GFX_Portrait_HOL_hendrikus_colijn_new
         texturefile = gfx/leaders/HOL/HOL_hendrikus_colijn_new.dds
     }
+
+    spriteType = {
+        name = GFX_Portrait_POL_ignacy_moscicki_new
+        texturefile = gfx/leaders/POL/POL_ignacy_moscicki.dds
+    }
 }

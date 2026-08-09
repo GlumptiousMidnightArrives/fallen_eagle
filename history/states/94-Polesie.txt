@@ -16,10 +16,11 @@ state={
 		}
 		add_core_of = POL
 		add_core_of = BLR
+		add_claim_by = UKR
 	}
 
 	provinces={
-		560 3256 3309 3392 3556 6280 6306 6415 6546 11285 11528 
+		560 3256 3392 3556 6280 6306 6415 6546 11285 11528 
 	}
 	manpower=1002200
 	buildings_max_level_factor=1.000

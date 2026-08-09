@@ -171,7 +171,7 @@ characters = {
 				small=GFX_portrait_POL_ignacy_moscicki_small
 			}
 			civilian = {
-				large="GFX_portrait_POL_ignacy_moscicki"
+				large="GFX_Portrait_POL_ignacy_moscicki_new"
 			}
 		}
 		advisor={
