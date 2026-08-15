@@ -83,6 +83,9 @@ if = {
 		basic_torpedo = 1
 	}
 }
+
+recruit_character = AWC_tribes
+
 set_politics = {
 	ruling_party = neutrality
 }

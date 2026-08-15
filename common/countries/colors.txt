@@ -1287,6 +1287,10 @@ ISC = {
 	color_ui = rgb { 135 113 233 } 
 }
 
+NTQ = {
+	color = rgb { 106 105 148 }
+	color_ui = rgb { 106 105 148 } 
+}
  # removed for now due to causing unecessary errors
 # KRK = {
 # 	color = rgb { 155 155 237 }

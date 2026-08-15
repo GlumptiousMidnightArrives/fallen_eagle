@@ -58,4 +58,19 @@ spriteTypes = {
         name = GFX_Portrait_POL_ignacy_moscicki_new
         texturefile = gfx/leaders/POL/POL_ignacy_moscicki.dds
     }
+
+    spriteType = {
+        name = GFX_Portrait_MON_luvsanjambyn_mordorj
+        texturefile = gfx/leaders/MON/MON_luvsanjambyn_mordorj.dds
+    }
+
+    spriteType = {
+        name = GFX_Portrait_ILL_dalelkhan_sugirbayev
+        texturefile = gfx/leaders/ILL/ILL_dalelkhan_sugirbayev.dds
+    }
+
+    spriteType = {
+        name = GFX_Portrait_AWC_tribes
+        texturefile = gfx/leaders/AWC/AWC_tribes.dds
+    }
 }

@@ -1,0 +1,16 @@
+characters = {
+	AWC_tribes = {
+		name = AWC_tribes
+			portraits = {
+				civilian = {
+					large = "GFX_Portrait_AWC_tribes"
+				}
+			}
+			country_leader = {
+				ideology = oligarchism
+				traits = { }
+				expire = "1965.1.1.1"
+				id = -1
+			}
+	}
+}

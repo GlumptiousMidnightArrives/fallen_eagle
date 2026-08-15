@@ -1,0 +1,16 @@
+characters={
+	ILL_dalelkhan_sugirbayev = {
+		name= ILL_dalelkhan_sugirbayev
+		portraits={
+			civilian={
+				large="GFX_Portrait_ILL_dalelkhan_sugirbayev"
+			}
+		}
+		country_leader={
+			ideology=oligarchism
+			traits = { }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

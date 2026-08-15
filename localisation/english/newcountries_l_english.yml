@@ -211,6 +211,11 @@
  ISC_socialism: "International Straits Commission"
  ISC_liberalism: "International Straits Republic"
 
+ NTQ: "Rnga ba bod-Nyujwju Confederation"
+ NTQ_ADJ: "Rnga ba bod-Nyujwju"
+ NTQ_DEF: "the Rnga ba bod-Nyujwju Confederation"
+
+
  TUR_communism:0 "Turkish Socialist Workers' Republic"
  TUR_communism_DEF:0 "the Turkish Socialist Workers' Republic"
 

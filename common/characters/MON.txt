@@ -12,6 +12,20 @@ characters={
 			id=-1
 		}
 	}
+	MON_luvsanjambyn_mordorj={
+		name= MON_luvsanjambyn_mordorj
+		portraits={
+			civilian={
+				large="GFX_Portrait_MON_luvsanjambyn_mordorj"
+			}
+		}
+		country_leader={
+			ideology=oligarchism
+			traits = { jebtsundamba_khutuktu }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
 	MON_mingzhu_zhanshan={
 		name= MON_mingzhu_zhanshan
 		portraits={
