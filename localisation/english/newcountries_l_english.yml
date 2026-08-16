@@ -222,6 +222,20 @@
  PHI_liberalism: "Commonwealth of the Philippines"
  PHI_liberalism_DEF: "the Commonwealth of the Philippines"
  PHI_liberalism_ADJ: "Philippine"
+
+ NEP_neutrality:0 "Kingdom of Nepal"
+ BHU_neutrality:0 "Kingdom of Bhutan"
+
+ BRM_british_democratic:0 "Crown Colony of Burma"
+ BRM_british_democratic_DEF:0 "the Crown Colony of Burma"
+
+ SAU_neutrality:0 "Kingdom of Saudi Arabia"
+
+ YEM_neutrality:0 "Mutawakkilite Kingdom of Yemen"
+
+ SWI_democratic:0 "Swiss Confederation"
+
+
  # removed for now, keeping names so we dont have to rewrite them
  # KRA_fascism_DEF: "Empire of Vistula"
  # KRA_fascism: "Empire of Vistula"
