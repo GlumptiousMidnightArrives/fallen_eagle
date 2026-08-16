@@ -80,7 +80,7 @@ characters={
 		name=ENG_stanley_baldwin
 		portraits={
 			civilian={
-				large=GFX_portrait_ENG_stanley_baldwin
+				large=GFX_Portrait_ENG_stanley_baldwin_new
 			}
 		}
 		country_leader={

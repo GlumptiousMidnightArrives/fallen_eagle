@@ -201,3 +201,8 @@
  STATE_653:0 "Ekaterinburg"
  STATE_859:0 "Al-Ahsa"
  STATE_1152: "Jariyah"
+ STATE_1153: "Karabakh"
+ AZR_STATE_1153: "Qarabağ"
+ ARM_STATE_1153: "Ġarabaġ"
+ STATE_1154: "Syunik"
+ AZR_STATE_1154: "Zəngəzur"

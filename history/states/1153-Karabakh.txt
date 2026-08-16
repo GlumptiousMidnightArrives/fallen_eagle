@@ -1,0 +1,25 @@
+state = {
+	id = 1153
+	name = "STATE_1153"
+	manpower = 140000
+	
+	state_category = pastoral
+
+	history = {
+		owner = AZR
+		add_core_of = AZR
+		add_claim_by = ARM
+		victory_points = {
+			1467 2 # Stepanakert / Khankendi
+		}
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		1467 9715 1610
+	}
+
+	local_supplies = 7.0 
+}

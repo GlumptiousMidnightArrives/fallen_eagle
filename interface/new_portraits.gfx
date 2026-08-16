@@ -73,4 +73,9 @@ spriteTypes = {
         name = GFX_Portrait_AWC_tribes
         texturefile = gfx/leaders/AWC/AWC_tribes.dds
     }
+
+    spriteType = {
+        name = GFX_Portrait_ENG_stanley_baldwin_new
+        texturefile = gfx/leaders/ENG/ENG_stanley_baldwin_new.dds
+    }
 }
