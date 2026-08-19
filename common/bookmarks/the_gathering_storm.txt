@@ -15,7 +15,7 @@ bookmarks = {
 		# scrollable_country_list = yes       # defaults to no: scroll the minor list with its vertical scrollbar instead of the overflow dropdown
 		"ENG"={
 			history = "ENG_GATHERING_STORM_DESC"
-			ideology = democratic
+			ideology = liberalism
 			version = base_game
 			label = { Europe }
 			available = {}
@@ -34,7 +34,7 @@ bookmarks = {
 		"GER" = {
 			history = "GER_GATHERING_STORM_DESC"
 			label = { Europe }
-			ideology = fascism
+			ideology = liberalism
 			version = base_game
 			required_dlc = {}
 			ideas = {
@@ -48,10 +48,23 @@ bookmarks = {
 				GER_glory_to_the_imperial_army
 			}
 		}
+
+		"ITA" = {
+			history = "ITA_GATHERING_STORM_DESC"
+			label = { Europe }
+			ideology = fascism
+			version = base_game
+			required_dlc = {}
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
 		"SOV"={
 			history = "SOV_GATHERING_STORM_DESC"
 			label = { Europe }
-			ideology = communism
+			ideology = neutrality
 			version = base_game
 			available = {}
 			ideas = {
@@ -68,7 +81,7 @@ bookmarks = {
 		"USA"={
 			history = "USA_GATHERING_STORM_DESC"
 			label = { America }
-			ideology = democratic
+			ideology = liberalism
 			version = base_game
 			ideas = {
 				home_of_the_free

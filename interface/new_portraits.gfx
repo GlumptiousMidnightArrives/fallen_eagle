@@ -78,4 +78,9 @@ spriteTypes = {
         name = GFX_Portrait_ENG_stanley_baldwin_new
         texturefile = gfx/leaders/ENG/ENG_stanley_baldwin_new.dds
     }
+
+    spriteType = {
+        name = GFX_Portrait_ITA_benito_mussolini_new
+        texturefile = gfx/leaders/ITA/ITA_benito_mussolini_new.dds
+    }
 }
