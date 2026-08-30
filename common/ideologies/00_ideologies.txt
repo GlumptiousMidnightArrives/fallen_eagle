@@ -264,6 +264,10 @@ ideologies = {
 			type_socialism = {
 
 			}
+
+			democratic_socialism = {
+				color = { 166 115 108 }
+			}
 		}
 
 		dynamic_faction_names = {

@@ -206,3 +206,7 @@
  ARM_STATE_1153: "Ġarabaġ"
  STATE_1154: "Syunik"
  AZR_STATE_1154: "Zəngəzur"
+ STATE_828:0 "Ingushetia"
+ STATE_821:0 "Chechnya"
+ STATE_827:0 "Kabardia"
+ STATE_1155: "Nogay El"

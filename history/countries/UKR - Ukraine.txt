@@ -90,9 +90,12 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 20
-	fascism = 30
-	communism = 50
+	democratic = 28
+	liberalism = 10
+	fascism = 10
+	communism = 12
+	socialism = 30
+	neutrality = 10
 }
 
 recruit_character = UKR_mykhailo_omelianovych_pavlenko
@@ -101,6 +104,7 @@ recruit_character = UKR_nikita_krushchyov
 recruit_character = UKR_kost_levytsky
 recruit_character = IA_olga_taratuta 
 recruit_character = UKR_pavlo_shandruk 
+recruit_character = UKR_symon_vasyliovych_petliura
 
 
 

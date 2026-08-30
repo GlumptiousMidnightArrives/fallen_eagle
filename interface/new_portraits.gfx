@@ -83,4 +83,19 @@ spriteTypes = {
         name = GFX_Portrait_ITA_benito_mussolini_new
         texturefile = gfx/leaders/ITA/ITA_benito_mussolini_new.dds
     }
+
+    spriteType = {
+        name = GFX_Portrait_CZE_edvard_benes_new
+        texturefile = gfx/leaders/CZE/CZE_edvard_benes_new.dds
+    }
+
+    spriteType = {
+        name = GFX_Portrait_YUG_paul_karadordevic_new
+        texturefile = gfx/leaders/YUG/YUG_paul_karadordevic.dds
+    }
+
+    spriteType = {
+        name = GFX_Portrait_UKR_symon_vasyliovych_petliura
+        texturefile = gfx/leaders/UKR/UKR_symon_vasyliovych_petliura.dds
+    }
 }

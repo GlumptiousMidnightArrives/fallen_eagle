@@ -62,3 +62,12 @@
  USA_fascism_party: "Silver Legion of America"
  USA_neutrality_party: "Technocracy Movement"
  USA_liberalism_party: "Democratic Party"
+
+ UKR_socialism_party: "Esdeky"
+ UKR_socialism_party_long: "Ukrainska sotsial-demokratychna robitnycha partiia"
+ UKR_liberalism_party: "UPSF"
+ UKR_liberalism_party_long: "Ukrainska partiia sotsiialistiv-federalistiv"
+ UKR_communism_party: "Borotbysty"
+ UKR_communism_party_long: "Ukrajins'ka komunistichna partiya"
+ UKR_democratic_party: "UDkP"
+ UKR_democratic_party_long: "Ukrainska demokratychno-khliborobska partiia"

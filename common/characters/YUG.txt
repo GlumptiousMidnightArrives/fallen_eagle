@@ -3,7 +3,7 @@ characters={
 		name=YUG_prince_paul
 		portraits={
 			civilian={
-				large=GFX_portrait_YUG_prince_paul
+				large=GFX_Portrait_YUG_paul_karadordevic_new
 			}
 		}
 		country_leader={
