@@ -18,11 +18,15 @@ state = {
 		}
 
 		victory_points = {
-			6701 3 # Makhachkala
+			3668 3 # Makhachkala
 		}
 
 		victory_points = {
 			7624 1 # Derbent
+		}
+
+		victory_points = {
+			3682 1 # Derbent
 		}
 
 		add_core_of = DAG
