@@ -98,4 +98,9 @@ spriteTypes = {
         name = GFX_Portrait_UKR_symon_vasyliovych_petliura
         texturefile = gfx/leaders/UKR/UKR_symon_vasyliovych_petliura.dds
     }
+
+    spriteType = {
+        name = GFX_Portrait_AUS_kurt_schuschnigg_new
+        texturefile = gfx/leaders/AUS/AUS_kurt_schuschnigg_new.dds
+    }
 }
