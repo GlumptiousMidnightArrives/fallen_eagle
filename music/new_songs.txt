@@ -1,0 +1,6 @@
+music= {
+    song="mainthemeallies"
+    chance={
+        modifier= 0.5 # fuck the main theme, all my homies hate the main theme
+    }
+}
