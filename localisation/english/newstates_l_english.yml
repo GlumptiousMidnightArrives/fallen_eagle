@@ -43,7 +43,6 @@
  STATE_1097:0 "Eupen-Malmedy"
  BEL_STATE_1097:0 "Belgique de l'Est"
  STATE_1099:0 "Weihaiwei"
- ENG_STATE_1099:0 "Port Edward"
  STATE_1100:0 "Gulàngyu"
  ENG_STATE_1100:0 "Kulangsu International Settlement"
  STATE_1101:0 "Shamian"
@@ -210,3 +209,4 @@
  STATE_821:0 "Chechnya"
  STATE_827:0 "Kabardia"
  STATE_1155: "Nogay El"
+ JAP_STATE_555: "Chishima Rettō"
