@@ -340,7 +340,7 @@
  STATE_198:0 "Vinnytsia"
  STATE_199:1 "Proskuriv" # Was Khmelnytskyi
  STATE_200:0 "Zaporozhe"
- UKR_STATE_200: "Zaporizhzha"
+ UKR_STATE_200: "Zaporizhzhia"
  STATE_201:0 "Zhytomyr"
  STATE_202:0 "Kiev"
  UKR_STATE_202: "Kyiv"
@@ -1256,7 +1256,7 @@
  STATE_1027: "Bataan"
  JAP_STATE_1028: "Kankyō"
  STATE_1028: "Hamgyong"
- JAP_STATE_1029: "Kougen"
+ JAP_STATE_1029: "Kōgen"
  STATE_1029: "Gangwon"
  JAP_STATE_1030: "Keishō"
  STATE_1030: "Gyeongsang"
