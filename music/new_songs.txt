@@ -1,6 +1,10 @@
+music_station= "base_music"
+
 music= {
-    song="mainthemeallies"
+    song= "mainthemeallies"
     chance={
-        modifier= 0.5 # fuck the main theme, all my homies hate the main theme
+        modifier= {
+        factor= 0.5 # fuck the main theme, all my homies hate the main theme
+        }
     }
 }
