@@ -1,10 +1,82 @@
 music_station= "base_music"
 
 music= {
-    song= "mainthemeallies"
+    song= "godsavethetsar"
     chance={
         modifier= {
-        factor= 0.5 # fuck the main theme, all my homies hate the main theme
+        factor= 0.5
+        }
+        modifier= {
+        factor= 1
+        tag= SOV
+        has_government= neutrality
+        }
+    }
+}
+
+music= {
+    song= "marchofthesiberianriflemen"
+    chance={
+        modifier= {
+        factor= 0.5
+        }
+        modifier= {
+        factor= 1
+        tag= SOV
+        has_government= neutrality
+        }
+    }
+}
+
+music= {
+    song= "myfatherlandisdying"
+    chance={
+        modifier= {
+        factor= 0.5
+        }
+        modifier= {
+        factor= 1
+        tag= SOV
+        has_government= neutrality
+        }
+    }
+}
+
+music= {
+    song= "pierwszabrygada"
+    chance={
+        modifier= {
+        factor= 0.5
+        }
+        modifier= {
+        factor= 1
+        tag= POL
+        }
+    }
+}
+
+music= {
+    song= "czasylegionera"
+    chance={
+        modifier= {
+        factor= 0.5
+        }
+        modifier= {
+        factor= 1
+        tag= POL
+        }
+    }
+}
+
+music= {
+    song= "miyasanmiyasan"
+    chance={
+        modifier= {
+        factor= 0.5
+        }
+        modifier= {
+        factor= 1
+        tag= JAP
         }
     }
 }
