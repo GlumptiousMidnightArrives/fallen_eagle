@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_aquilaradio"
+		texturefile = "gfx//interface//topbar//musicplayer//aquilaradio.dds"
+		noOfFrames = 2
+	}
+}
