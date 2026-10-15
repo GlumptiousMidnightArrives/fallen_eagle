@@ -1848,7 +1848,7 @@ country_event = {
 					NOT = {
 						SWE_axel_pehrssonbramstorp = {
 							AND = {
-								has_ideology = liberalism
+								has_ideology = conservatism
 								has_trait = SWE_support_party_in_power
 								has_trait = SWE_rearnament_proponent
 							}
@@ -1932,7 +1932,7 @@ country_event = {
 			SWE_gosta_bagge = {
 				remove_trait = {
 					trait = SWE_minor_opposition_party_in_power
-					ideology = liberalism
+					ideology = classical_liberalism
 				}
 			}
 		}

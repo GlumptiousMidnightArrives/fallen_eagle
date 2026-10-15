@@ -269,7 +269,6 @@ ideologies = {
 			}
 
 			democratic_socialism = {
-				color = { 166 115 108 }
 			}
 		}
 
@@ -281,7 +280,7 @@ ideologies = {
 			"FACTION_NAME_COMMUNIST_5"
 		}
 
-		color = { 235 87 70 }
+		color = { 186 60 60 }
 
 		war_impact_on_world_tension = 0.75		#Commie less threatening
 		faction_impact_on_world_tension = 0.5
@@ -348,7 +347,7 @@ ideologies = {
 			"FACTION_NAME_COMMUNIST_5"
 		}
 
-		color = { 186 45 45 }
+		color = { 110 27 27 }
 
 		war_impact_on_world_tension = 0.75		#Commie less threatening
 		faction_impact_on_world_tension = 0.5

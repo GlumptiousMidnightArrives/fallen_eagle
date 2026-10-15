@@ -6,7 +6,7 @@ tags={
 	"Ideologies"
 }
 name="Aquila Renata"
-supported_version="1.19.2.0" #larp
+supported_version="1.19.3.0" #larp
 
  replace_path = "gfx/loadingscreens"
  replace_path = "dlc/dlc028_la_resistance/gfx/loadingscreens"
