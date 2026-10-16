@@ -1,0 +1,8 @@
+﻿l_english:
+ autonomy_title_tt:0 "[THIS.GetStateOfInterestName]"
+ Twilights_failure_song:0 "https://www.youtube.com/watch?v=abuBT0_rMgs"
+ AR_state_of_interest_icon_tooltip:0 "§Y[THIS.GetStateOfInterestName]§!"
+ AR_state_of_interest_icon_tooltip_delayed:0 "§L[THIS.GetStateOfInterestDesc]§!"
+ 
+ BEA_tanganyika: "Tanganyika Territory"
+ BEA_tanganyika_desc: "§YThe Tanganyika Territory§!\n\n§YCapital:§! Dar es Salaam\n\nThe Tanganyika Territory is a §YClass B League of Nations mandate§! under British administration, it was established in 1916 after the entente occupation of German East Africa."

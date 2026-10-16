@@ -1,0 +1,25 @@
+scripted_gui = {
+	#thank you KR
+	AR_State_of_Interest_gui = {
+		context_type = selected_state_context
+		window_name = AR_state_of_interest
+		parent_window_token = selected_state_view
+
+		ai_enabled = { always = no }
+
+		visible = {
+			meta_trigger = {
+				text = {
+					has_variable = [TAG]_state_of_interest
+				}
+				TAG = "[THIS.OWNER.GetTag]"
+			}
+		}
+		properties = {
+			KR_state_of_interest_icon={
+				image = "[THIS.GetStateOfInterestIcon]"
+			}
+		}
+	}
+}
+

@@ -1,0 +1,64 @@
+
+defined_text = {
+	name = GetStateOfInterestName
+	text = {
+		trigger = {
+			meta_trigger = {
+				text = {
+					has_variable = [TAG]_state_of_interest
+				}
+				TAG = "[THIS.OWNER.GetTag]"
+			}
+			meta_trigger = {
+				text = {
+					set_temp_variable = { TAG_state_of_interest = [TAG]_state_of_interest }
+				}
+				TAG = "[THIS.OWNER.GetTag]"
+			}
+		}
+		localization_key = "[?TAG_state_of_interest.GetTokenLocalizedKey]"
+	}
+	text = {
+		localization_key = Twilights_failure_song
+	}
+}
+defined_text = {
+	name = GetStateOfInterestIcon
+	text = {
+		trigger = {
+			meta_trigger = {
+				text = {
+					has_variable = [TAG]_state_of_interest
+				}
+				TAG = "[THIS.OWNER.GetTag]"
+			}
+			meta_trigger = {
+				text = {
+					set_temp_variable = { TAG_state_of_interest = [TAG]_state_of_interest }
+				}
+				TAG = "[THIS.OWNER.GetTag]"
+			}
+		}
+		localization_key = "GFX_[?TAG_state_of_interest.GetTokenKey]"
+	}
+}
+defined_text = {
+	name = GetStateOfInterestDesc
+	text = {
+		trigger = {
+			meta_trigger = {
+				text = {
+					has_variable = [TAG]_state_of_interest
+				}
+				TAG = "[THIS.OWNER.GetTag]"
+			}
+			meta_trigger = {
+				text = {
+					set_temp_variable = { TAG_state_of_interest = [TAG]_state_of_interest }
+				}
+				TAG = "[THIS.OWNER.GetTag]"
+			}
+		}
+		localization_key = "[?TAG_state_of_interest.GetTokenKey]_desc"
+	}
+}

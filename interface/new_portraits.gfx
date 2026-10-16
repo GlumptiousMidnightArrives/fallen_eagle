@@ -103,4 +103,9 @@ spriteTypes = {
         name = GFX_Portrait_AUS_kurt_schuschnigg_new
         texturefile = gfx/leaders/AUS/AUS_kurt_schuschnigg_new.dds
     }
+
+    spriteType = {
+        name = GFX_Portrait_IET_osman_batur
+        texturefile = gfx/leaders/IET/IET_osman_batur.dds
+    }
 }

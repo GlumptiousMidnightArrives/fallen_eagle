@@ -21,6 +21,12 @@ state={
 		}
 			add_core_of = TZN
 			add_core_of = BEA
+			
+			## BEGIN!!!##
+			set_variable = {
+				BEA_state_of_interest = token:BEA_tanganyika
+			}
+			## FIN ##
 	}
 
 	provinces={
