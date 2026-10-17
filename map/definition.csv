@@ -1992,7 +1992,7 @@
 1991;9;90;30;land;false;desert;6
 1992;9;90;85;land;false;forest;5
 1993;9;90;135;land;false;forest;5
-1994;9;93;50;land;false;desert;5
+1994;9;93;50;lake;false;lakes;5
 1995;9;93;95;land;false;mountain;6
 1996;9;93;200;land;false;mountain;6
 1997;9;96;15;land;true;mountain;3
@@ -12020,7 +12020,7 @@
 12019;173;120;152;land;false;mountain;6
 12020;173;123;12;land;false;hills;5
 12021;173;123;67;land;true;plains;6
-12022;173;123;217;land;false;desert;5
+12022;173;123;217;land;true;urban;5
 12023;173;126;32;land;false;hills;6
 12024;173;126;77;land;false;plains;2
 12025;173;126;182;land;false;desert;5

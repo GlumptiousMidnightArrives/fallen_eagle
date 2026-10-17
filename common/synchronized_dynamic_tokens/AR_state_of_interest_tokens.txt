@@ -1,4 +1,6 @@
 BEA_tanganyika
+BEA_uganda
+BEA_zanzibar
 IET_sinkiang
 KHM_sinkiang
 ILL_sinkiang

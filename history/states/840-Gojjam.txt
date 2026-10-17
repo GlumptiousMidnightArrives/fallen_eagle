@@ -1,0 +1,29 @@
+state = {
+	id = 840
+	name = "STATE_840"
+	manpower = 10
+	resources = {
+	}
+	
+	state_category = wasteland
+	impassable = yes
+	force_link_ownership_to = 1015
+
+	history = {
+		
+		buildings = {
+			# infrastructure = 1
+		}
+		
+		owner = OMA
+		add_core_of = IMO
+		add_core_of = OMA
+
+	}
+
+	provinces = {
+ 		8030
+ 	}
+
+	local_supplies = 0.0 
+}

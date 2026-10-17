@@ -10,12 +10,20 @@ state={
 			infrastructure = 1
 
 		}
-		add_core_of = KEN
+		add_core_of = TZN
 		add_core_of = BEA
+		victory_points = {
+			12022 5
+		}
+		## BEGIN!!!##
+			set_variable = {
+				BEA_state_of_interest = token:BEA_zanzibar
+			}
+			## FIN ##
 	}
 
 	provinces={
-		5160 10860 11145 
+		12022
 	}
 
 	buildings_max_level_factor=1.000

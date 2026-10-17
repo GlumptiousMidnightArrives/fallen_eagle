@@ -21,3 +21,9 @@
 
  KUM_sinkiang: "Sinkiang Province"
  KUM_sinkiang_desc: "§YAdministrative Capital:§! Tihwa (Ürümqi)\n\nThe Sinkiang province is a §YChinese Administrative Province§!, it was usurped by Republican Governor Yang Zengxin in 1912 after the fall of the Qing Dynasty. During the warlord period it has been divided between smaller warlords."
+
+ BEA_uganda: "Protectorate of Uganda"
+ BEA_uganda_desc: "§YCapital:§! Entebbe\n\nThe Protectorate of Uganda is a §Yprotectorate§! under Britain, it was established a year after the Imperial British East Africa Company transferred its administration rights of territory consisting mainly of the Kingdom of Buganda to the British government."
+
+ BEA_zanzibar: "Sultanate of Zanzibar"
+ BEA_zanzibar_desc: "§YCapital:§! Zanzibar\n\nThe Sultanate of Zanzibar is a §Yprotectorate§! under Britain, the protectorate was decided during the signing of the Heligoland-Zanzibar Treaty between the United Kingdom and the German Empire in 1890. Following the death of Sultan Hamad bin Thuwaini, Britain and Zanzibar fought a 38-minute war, the shortest in recorded history which eventually ended in British control being established on the islands."

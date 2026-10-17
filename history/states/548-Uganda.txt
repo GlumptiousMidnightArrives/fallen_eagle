@@ -15,12 +15,17 @@ state={
 		add_core_of = UGA
 		add_core_of = BEA
 		victory_points = {
-			12989 1
+			12989 3
 		}
+		## BEGIN!!!##
+			set_variable = {
+				BEA_state_of_interest = token:BEA_uganda
+			}
+		## FIN ##
 	}
 
 	provinces={
-		3854 7088 7133 8223 12929 12989 13177 
+		3854 7088 7133 8223 12929 12989 13177 1994
 	}
 	manpower=3515625
 	buildings_max_level_factor=1.000
