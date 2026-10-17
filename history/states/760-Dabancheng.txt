@@ -16,8 +16,37 @@ state = {
 		}
 
 		victory_points = {
-			4704 2 # Hami
+			7732 2 # Hami
 		}
+		## BEGIN!!!##
+			set_variable = {
+				IET_state_of_interest = token:IET_sinkiang
+			}
+		## FIN ##
+
+		## BEGIN!!!##
+			set_variable = {
+				KHM_state_of_interest = token:KHM_sinkiang
+			}
+		## FIN ##
+
+		## BEGIN!!!##
+			set_variable = {
+				ILL_state_of_interest = token:ILL_sinkiang
+			}
+		## FIN ##
+
+		## BEGIN!!!##
+			set_variable = {
+				AWC_state_of_interest = token:AWC_sinkiang
+			}
+		## FIN ##
+
+		## BEGIN!!!##
+			set_variable = {
+				KUM_state_of_interest = token:KUM_sinkiang
+			}
+		## FIN ##
 
 	}
 

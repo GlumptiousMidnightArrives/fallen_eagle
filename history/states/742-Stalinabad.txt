@@ -13,7 +13,12 @@ state = {
 
 		}
 		add_core_of = IET
-
+		## BEGIN!!!##
+			set_variable = {
+				IET_state_of_interest = token:IET_sinkiang
+			}
+		## FIN ##
+		
 	}
 
 	provinces = {

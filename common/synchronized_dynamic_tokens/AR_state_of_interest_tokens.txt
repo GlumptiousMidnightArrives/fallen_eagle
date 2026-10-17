@@ -1,1 +1,6 @@
 BEA_tanganyika
+IET_sinkiang
+KHM_sinkiang
+ILL_sinkiang
+AWC_sinkiang
+KUM_sinkiang

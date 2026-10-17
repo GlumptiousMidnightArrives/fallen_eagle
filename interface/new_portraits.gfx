@@ -108,4 +108,14 @@ spriteTypes = {
         name = GFX_Portrait_IET_osman_batur
         texturefile = gfx/leaders/IET/IET_osman_batur.dds
     }
+
+    spriteType = {
+        name = GFX_Portrait_KHM_ma_hushan_new
+        texturefile = gfx/leaders/KHM/KHM_ma_hushan_new.dds
+    }
+
+    spriteType = {
+        name = GFX_Portrait_KUM_yulbars_khan_new
+        texturefile = gfx/leaders/KUM/KUM_yulbars_khan_new.dds
+    }
 }

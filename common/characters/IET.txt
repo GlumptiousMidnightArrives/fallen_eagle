@@ -1,13 +1,13 @@
 characters={
 	IET_osman_batur = {
-		name= IET_osman_batur
+		name = IET_osman_batur
 		portraits={
 			civilian={
 				large="GFX_Portrait_IET_osman_batur"
 			}
 		}
 		country_leader={
-			ideology=oligarchism
+			ideology=populism
 			traits = { }
 			expire="1965.1.1.1"
 			id=-1
