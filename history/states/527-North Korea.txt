@@ -22,9 +22,9 @@ state = {
 			}
 		}
 
-			set_variable = {
-				JAP_state_of_interest = token:JAP_korea
-			}
+		set_variable = {
+			JAP_state_of_interest = token:JAP_korea
+		}
 
 		
 		victory_points = {
