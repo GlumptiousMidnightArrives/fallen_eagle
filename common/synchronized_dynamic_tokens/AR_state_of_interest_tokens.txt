@@ -6,3 +6,4 @@ KHM_sinkiang
 ILL_sinkiang
 AWC_sinkiang
 KUM_sinkiang
+JAP_korea
