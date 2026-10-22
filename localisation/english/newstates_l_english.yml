@@ -93,6 +93,7 @@
  BEL_STATE_1129: "Zêeuws-Vloandern"
  FRA_STATE_1129: "La Flandre Zélandaise"
  STATE_1130: "Chełm"
+ SOV_STATE_1130: "Kholm"
  UKR_STATE_1130: "Kholm"
  GER_STATE_1130: "Kulm"
  AUS_STATE_1130: "Kulm"
@@ -219,3 +220,4 @@
  IET_STATE_1006: "Aqsai Chöl"
  STATE_904:0 "Zanzibar"
  STATE_840:0 "Rub al Khali"
+ SOV_STATE_810:0 "Latgaliya"
