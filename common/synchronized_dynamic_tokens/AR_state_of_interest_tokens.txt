@@ -7,3 +7,4 @@ ILL_sinkiang
 AWC_sinkiang
 KUM_sinkiang
 JAP_korea
+ENG_kulangsu

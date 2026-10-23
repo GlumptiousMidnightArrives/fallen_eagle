@@ -16,6 +16,9 @@ state={
 		victory_points = {
 			13420 2 # Kulangsu
 		}
+		set_variable= {
+			ENG_state_of_interest= token:ENG_kulangsu
+		}
 	}
 	provinces={
 		13420
