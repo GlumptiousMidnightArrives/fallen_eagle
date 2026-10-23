@@ -159,6 +159,13 @@ if = {
 
 set_stability = 0.45
 set_war_support = 0.15
+add_ideas = {
+	GER_the_second_armament_program
+	GER_aftermath_of_the_great_depression
+	GER_hunger_chancellor
+	GER_gessler_cabinet
+	GER_polarization
+}
 
 
 # SETUP THE 1939 SCENARIO
