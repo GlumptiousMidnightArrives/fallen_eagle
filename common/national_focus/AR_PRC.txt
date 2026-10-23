@@ -31,7 +31,7 @@ focus_tree= {
  #}   
     focus= {
         id= PRC_fifth_campaign_progress
-        icon = { generic_communism_drift_bonus }
+        icon = { GFX_generic_communism_drift_bonus }
         x = 10
         y = 0
         cost = 1
@@ -42,7 +42,7 @@ focus_tree= {
         }
         completion_reward={
             add_political_power= 25
-            add_stability= 2
+            add_stability= 0.02
         }
     }
 }

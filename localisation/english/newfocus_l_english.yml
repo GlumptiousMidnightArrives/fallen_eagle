@@ -1,4 +1,5 @@
-﻿l_english: # Please organize your focus localization by tag...
+﻿l_english:
+ # Please organize your focus localization by tag...
 
  # Communist China(PRC)
  PRC_fifth_campaign_progress: "The Second Year"
