@@ -1,0 +1,11 @@
+focus_tree= {
+    id = new_china_tree
+    country= {
+        factor= 0
+        modifier={
+            add= 1001 #for some damned reason ComChina's NCNS tree has a 1000 modifier value
+            tag= PRC
+        }
+        default= no
+    }
+}
