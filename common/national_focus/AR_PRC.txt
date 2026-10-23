@@ -8,4 +8,41 @@ focus_tree= {
         }
         default= no
     }
+
+ # focus = {
+ #	id = 
+ #	icon = GFX_focus_PLACEHOLDER 
+ #	#prerequisite = { focus = }
+ #	x = 0
+ #	y = 0
+ #	#relative_position_id =
+ #	#mutually_exclusive = { focus =  focus =  }
+ #	cost = 5
+ #	ai_will_do = {
+ #		factor = 10
+ #	}
+ #	available = {
+ #	}
+ #	#allow_branch = {
+ #	#}
+ #	search_filters = { }
+ #	completion_reward = {
+ #	}
+ #}   
+    focus= {
+        id= PRC_fifth_campaign_progress
+        icon = { generic_communism_drift_bonus }
+        x = 10
+        y = 0
+        cost = 1
+        ai_will_do= {
+            factor= 10
+        }
+        available={
+        }
+        completion_reward={
+            add_political_power= 25
+            add_stability= 2
+        }
+    }
 }
