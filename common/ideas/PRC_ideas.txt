@@ -1,7 +1,7 @@
 ideas= {
     country= {
         PRC_fifth_encirclement_campaign= {
-            icon= PRC_the_internal_enemy
+            picture= PRC_the_internal_enemy
             modifier= {
                 max_dig_in= 2
                 army_org_regain= 0.15
