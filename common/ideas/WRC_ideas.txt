@@ -1,7 +1,7 @@
 ideas= {
     country= {
         first_united_front= {
-            picture= { chi_chinese_unity }
+            picture= chi_chinese_unity
             modifier= { 
                 surrender_limit= 0.2 
                 stability_factor= 0.05
