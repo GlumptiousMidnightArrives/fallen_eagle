@@ -298,6 +298,7 @@ IF = {
 	### Ideas ###
 
 	add_ideas = PRC_defunct_state_bank
+	add_ideas= first_united_front
 
 	else_if = { #TODO_MH replace these with dynamic modifiers that can be interacted with
 		limit = {
