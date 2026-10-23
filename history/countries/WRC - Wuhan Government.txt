@@ -91,6 +91,7 @@ set_technology = {
 	basic_train = 1
 }
 
+recruit_character = WRC_wang_jingwei
 set_grand_doctrine = mass_assault
 set_grand_doctrine = new_fleet_in_being
 
