@@ -1,5 +1,32 @@
 characters = {
 
+	GER_heinrich_bruning = {
+		name = GER_heinrich_bruning  ###### NO LOC YET ######
+		portraits = {
+			army = {
+				small = GFX_portrait_GER_heinrich_bruning_small ####### NO PORTRAIT YET #######
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = GER_heinrich_bruning
+			allowed = {
+				original_tag = GER
+			}
+			visible = {
+			}
+			available = {
+				OR = {
+					has_government = democratic
+					has_government = liberalism
+				}
+			}
+			traits = {
+				the_hunger_chancellor
+			}
+		}		
+	}
+
 
  ######   #######  ##     ## ##    ## ######## ########  ##    ##    ##       ########    ###    ########  ######## ########   ######  
 ##    ## ##     ## ##     ## ###   ##    ##    ##     ##  ##  ##     ##       ##         ## ##   ##     ## ##       ##     ## ##    ## 

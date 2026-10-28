@@ -1,0 +1,10 @@
+spriteTypes = {
+    spriteType = {
+        name = GFX_idea_GER_german_rearmament_idea
+        texturefile = gfx/interface/ideas/GER_german_rearmament.dds
+    }
+    spriteType = {
+        name = GFX_idea_economic_crisis_idea
+        texturefile = gfx/interface/ideas/economic_crisis.dds
+    }
+}

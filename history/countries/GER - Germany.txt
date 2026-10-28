@@ -611,6 +611,7 @@ add_ideas = {
 activate_mission = GER_mefo_bills_mission
 
 # Character Recruitment
+recruit_character = GER_heinrich_bruning
 recruit_character = GER_otto_gessler
 recruit_character = GER_wilhelm_pieck
 recruit_character = GER_konrad_adenauer
